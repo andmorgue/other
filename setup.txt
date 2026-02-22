@@ -1,0 +1,32 @@
+# OS
+Arch Linux
+Linux-zen
+KDE Plasma
+Wayland
+Pipewire
+Btrfs
+
+# HARDWARE
+AMD Ryzen 7 5700X
+AMD Radeon RX 7600
+Kingston KC3000 512GB
+XPG Gammix D10 8GB DDR4 3200 (x2)
+DeepCool AK400
+Corsair CX650
+Corsair 480T Airflow
+ASUS TUF Gaming B550M-Plus
+
+# PERIPHERALS
+Comfast CF-WU785AC (MT7612U)
+Zowie XL2546K
+Logitech G Pro X Superlight
+Corsair MM100
+Razer Huntsman V3 Pro Mini
+Dualshock 4
+GraveAudio DA06 (CX31993)
+Sennheiser IE 100 Pro
+HP DeskJet Ink Advantage 3776
+
+# TO SELL:
+NVIDIA RTX 4070 - R$ 3500
+DeepCool AG620 - R$ 180
