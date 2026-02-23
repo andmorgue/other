@@ -1,6 +1,5 @@
 # OS
 Arch Linux
-Linux-zen
 KDE Plasma
 Wayland
 Pipewire
