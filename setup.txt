@@ -3,7 +3,7 @@ Arch Linux
 KDE Plasma
 Wayland
 Pipewire
-Btrfs
+Ext4
 
 # HARDWARE
 AMD Ryzen 7 5700X
