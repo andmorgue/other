@@ -25,7 +25,3 @@ Dualshock 4
 GraveAudio DA06 (CX31993)
 Sennheiser IE 100 Pro
 HP DeskJet Ink Advantage 3776
-
-# TO SELL:
-NVIDIA RTX 4070 - R$ 3500
-DeepCool AG620 - R$ 180
