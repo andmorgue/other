@@ -17,11 +17,11 @@ ASUS TUF Gaming B550M-Plus
 
 # PERIPHERALS
 Comfast CF-WU785AC (MT7612U)
+Razer Huntsman V3 Pro Mini
 Zowie XL2546K
 Logitech G Pro X Superlight
 Corsair MM100
-Razer Huntsman V3 Pro Mini
-Dualshock 4
+Dualshock 4 (wired)
 GraveAudio DA06 (CX31993)
 Sennheiser IE 100 Pro
 HP DeskJet Ink Advantage 3776
