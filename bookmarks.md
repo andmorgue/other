@@ -17,13 +17,13 @@
 ## Música e Cultura
 - [Blabbermouth](https://blabbermouth.net/)
 - [Wikimetal](https://www.wikimetal.com.br/category/noticias/)
-- [Metal Hammer](https://www.loudersound.com/metal-hammer/)
+- [Metal Hammer](https://www.loudersound.com/metal-hammer/news)
 - [Metal Injection](https://metalinjection.net/)
 
 ## Basquete
 
-- [NBA](https://www.nba.com/)
-- [Fiba 3x3](https://www.youtube.com/fiba3x3)
+- [NBA](https://www.nba.com/games)
+- [Fiba 3x3](https://www.youtube.com/fiba3x3/videos)
 - [Basketball Video](https://basketball-video.com/)
 
 ## Literatura
