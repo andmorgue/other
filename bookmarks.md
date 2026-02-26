@@ -16,7 +16,7 @@
 
 ## Música e Cultura
 - [Blabbermouth](https://blabbermouth.net/)
-- [Wikimetal](https://www.wikimetal.com.br/)
+- [Wikimetal](https://www.wikimetal.com.br/category/noticias/)
 - [Metal Hammer](https://www.loudersound.com/metal-hammer/)
 - [Metal Injection](https://metalinjection.net/)
 
