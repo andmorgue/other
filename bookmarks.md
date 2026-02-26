@@ -8,7 +8,7 @@
 - [The New Yorker](https://www.newyorker.com/)
 
 ## Tecnologia e Games
-- [Adrenaline](https://www.adrenaline.com.br/)
+- [Adrenaline](https://www.adrenaline.com.br/noticias)
 - [GamingOnLinux](https://www.gamingonlinux.com/)
 - [Diolinux](https://diolinux.com.br/)
 - [Phoronix](https://www.phoronix.com/)
@@ -18,7 +18,7 @@
 - [Blabbermouth](https://blabbermouth.net/)
 - [Wikimetal](https://www.wikimetal.com.br/category/noticias/)
 - [Metal Hammer](https://www.loudersound.com/metal-hammer/news)
-- [Metal Injection](https://metalinjection.net/)
+- [Metal Injection](https://metalinjection.net/news)
 
 ## Basquete
 
