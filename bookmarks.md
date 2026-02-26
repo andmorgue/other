@@ -23,7 +23,7 @@
 ## Basquete
 
 - [NBA](https://www.nba.com/games)
-- [Youtube NBA](https://www.youtube.com/playlist?list=PLlVlyGVtvuVlqvn8k8tZ30VuJgVsBXSsl)
+- [Youtube NBA](https://www.youtube.com/@NBA/videos)
 - [Fiba 3x3](https://www.youtube.com/fiba3x3/videos)
 - [Basketball Video](https://basketball-video.com/)
 
