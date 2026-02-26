@@ -27,4 +27,4 @@
 - [Basketball Video](https://basketball-video.com/)
 
 ## Literatura
-- [PublishNews](https://www.publishnews.com.br/)
+- [PublishNews](https://www.publishnews.com.br/newsletters)
