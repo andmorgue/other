@@ -16,9 +16,9 @@
 
 ## Música e Cultura
 - [Blabbermouth](https://blabbermouth.net/)
+- [Wikimetal](https://www.wikimetal.com.br/)
 - [Metal Hammer](https://www.loudersound.com/metal-hammer/)
 - [Metal Injection](https://metalinjection.net/)
-- [Wikimetal](https://www.wikimetal.com.br/)
 
 ## Basquete
 
