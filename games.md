@@ -356,6 +356,8 @@
 208. Return To Ash
 209. STALCRAFT: X Starter Edition
 210. My Night Job
+211. Hexguardian
+212. Total War: ATTILA
 
 ## GOG
 
@@ -450,6 +452,13 @@
 89. Eye of the Beholder II: The Legend of Darkmoon
 90. Thief™ 3: Deadly Shadows
 91. Alone in the Dark: The Trilogy 1+2+3
+92. Al-Qadim: The Genie's Curse
+93. ELDERBORN
+94. Ambition: A Minuet in Power
+95. Meganoid
+96. Captain Blood
+97. Rebel Galaxy Outlaw
+
 
 ## Amazon
 
@@ -460,3 +469,6 @@
 5. Dark City: Kyiv - CE
 6. Halloween Stories: Horror Movie - CE
 7. GYLT
+8. Technotopia
+9. Dread Templar
+10. Tavern Talk
