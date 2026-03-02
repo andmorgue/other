@@ -32,4 +32,3 @@
 ## Literatura
 - [PublishNews](https://www.publishnews.com.br/newsletters)
 - [Folha](https://www1.folha.uol.com.br/ilustrada/livros/)
-- [Estadao](https://www.estadao.com.br/cultura/literatura/)
