@@ -14,6 +14,12 @@
 - [Phoronix](https://www.phoronix.com/)
 - [9to5Linux](https://9to5linux.com/)
 
+## Metal
+- [Blabbermouth](https://blabbermouth.net/)
+- [Metal Injection](https://metalinjection.net/news)
+- [Wikimetal](https://www.wikimetal.com.br/category/noticias/)
+- [Metal Hammer](https://www.loudersound.com/metal-hammer/news)
+
 ## Esportes
 - [NBA](https://www.nba.com/games)
 - [Youtube NBA](https://www.youtube.com/@NBA/videos)
@@ -21,13 +27,6 @@
 - [Basketball Video](https://basketball-video.com/)
 - [FIS TV](https://watch.fis-ski.com/home)
 - [X Games](https://www.youtube.com/@XGames/videos)
-
-
-## Metal
-- [Blabbermouth](https://blabbermouth.net/)
-- [Metal Injection](https://metalinjection.net/news)
-- [Wikimetal](https://www.wikimetal.com.br/category/noticias/)
-- [Metal Hammer](https://www.loudersound.com/metal-hammer/news)
 
 ## Literatura
 - [PublishNews](https://www.publishnews.com.br/newsletters)
