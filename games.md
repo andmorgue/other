@@ -27,123 +27,124 @@
 23. Celeste
 24. Control Ultimate Edition
 25. Counter-Strike 2
-26. Crypt of the NecroDancer
-27. Crysis Remastered
-28. Cyberpunk 2077
-29. DARK SOULS™: REMASTERED
-30. Dead Cells
-31. Dead Island Riptide Definitive Edition
-32. Destiny 2
-33. Disco Elysium
-34. Dishonored
-35. Distant Space
-36. DOOM
-37. Drawful 2
-38. Dungeon of the ENDLESS™
-39. DUSK
-40. Dying Light
-41. Elsinore
-42. Entropy : Zero 2
-43. Evacuation
-44. Fallout 4
-45. Fallout Shelter
-46. Far Cry® 3
-47. Far Cry 4
-48. Fishing Planet
-49. The First Descendant
-50. THE FINALS
-51. THE FINALS PLAYTEST
-52. Grand Theft Auto V Enhanced
-53. Grand Theft Auto V Legacy
-54. GRIS
-55. Hades
-56. Half-Life
-57. Half-Life 2
-58. Half-Life 2: Deathmatch
-59. Half-Life Deathmatch: Source
-60. Halo: The Master Chief Collection
-61. Hellblade: Senua's Sacrifice
-62. Hellblade: Senua's Sacrifice VR Edition
-63. Helltaker
-64. Hue
-65. Insurgency
-66. Insurgency: Sandstorm
-67. Intravenous
-68. Islands of Insight
-69. Isle of Jura
-70. The Jackbox Megapicker
-71. Just Cause 2
-72. Just Cause 3
-73. Left 4 Dead 2
-74. LEGO® The Lord of the Rings™
-75. Lucky Tower Ultimate
-76. Machinika Museum
-77. Mad Max
-78. Marvel Rivals
-79. Marvel's Spider-Man: Miles Morales
-80. Metro 2033 Redux
-81. Metro Exodus
-82. Metro Exodus Enhanced Edition
-83. Metro: Last Light Redux
-84. Middle-earth™: Shadow of Mordor™
-85. Mini Thief
-86. Minimalism
-87. Nightmare Kart
-88. Once Human
-89. OpenTTD
-90. Overwatch®
-91. Papers, Please
-92. PAYDAY 2
-93. Portal
-94. Portal 2
-95. Press Any Button
-96. Resident Evil 2
-97. Resident Evil 7 Biohazard
-98. Resident Evil Re:Verse
-99. Resident Evil Village
-100. Rise of the Tomb Raider
-101. Roboquest
-102. RPG Maker VX Ace
-103. S.T.A.L.K.E.R.: Call of Pripyat
-104. S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition
-105. Severed Steel
-106. Sheepy: A Short Adventure
-107. Sniper Elite 4
-108. Spiritfarer®: Farewell Edition
-109. Splitgate
-110. Splitgate 2 - Alpha
-111. Stardew Valley
-112. SteamWorld Dig
-113. Stellar Mess: The Princess Conundrum (Chapter 1)
-114. Stray
-115. Streets of Rogue
-116. SUPERHOT
-117. Tell Me Why
-118. Terra Nil
-119. Thank Goodness You're Here!
-120. Titanfall® 2
-121. Tom Clancy's Ghost Recon® Wildlands
-122. Tom Clancy's Rainbow Six Siege - Test Server
-123. Tom Clancy's Rainbow Six: Vegas 2
-124. Tom Clancy's Rainbow Six® Siege X
-125. Tom Clancy's The Division 2
-126. Tomb Raider
-127. Undertale
-128. Unplagued
-129. Unturned
-130. Vampire Survivors
-131. Warhammer 40,000: Gladius - Relics of War
-132. Weapon of Choice
-133. What Remains of Edith Finch
-134. Wild Assault PlayTest
-135. The Witcher: Enhanced Edition
-136. The Witcher 2: Assassins of Kings Enhanced Edition
-137. The Witcher 3: Wild Hunt
-138. Wolfenstein: The New Order
-139. Zero Hour
-140. SNØ
-141. BattleBlock Theater
-142. Steep
+26. Counter-Strike: Global Offensive
+27. Crypt of the NecroDancer
+28. Crysis Remastered
+29. Cyberpunk 2077
+30. DARK SOULS™: REMASTERED
+31. Dead Cells
+32. Dead Island Riptide Definitive Edition
+33. Destiny 2
+34. Disco Elysium
+35. Dishonored
+36. Distant Space
+37. DOOM
+38. Drawful 2
+39. Dungeon of the ENDLESS™
+40. DUSK
+41. Dying Light
+42. Elsinore
+43. Entropy : Zero 2
+44. Evacuation
+45. Fallout 4
+46. Fallout Shelter
+47. Far Cry® 3
+48. Far Cry 4
+49. Fishing Planet
+50. The First Descendant
+51. THE FINALS
+52. THE FINALS PLAYTEST
+53. Grand Theft Auto V Enhanced
+54. Grand Theft Auto V Legacy
+55. GRIS
+56. Hades
+57. Half-Life
+58. Half-Life 2
+59. Half-Life 2: Deathmatch
+60. Half-Life Deathmatch: Source
+61. Halo: The Master Chief Collection
+62. Hellblade: Senua's Sacrifice
+63. Hellblade: Senua's Sacrifice VR Edition
+64. Helltaker
+65. Hue
+66. Insurgency
+67. Insurgency: Sandstorm
+68. Intravenous
+69. Islands of Insight
+70. Isle of Jura
+71. The Jackbox Megapicker
+72. Just Cause 2
+73. Just Cause 3
+74. Left 4 Dead 2
+75. LEGO® The Lord of the Rings™
+76. Lucky Tower Ultimate
+77. Machinika Museum
+78. Mad Max
+79. Marvel Rivals
+80. Marvel's Spider-Man: Miles Morales
+81. Metro 2033 Redux
+82. Metro Exodus
+83. Metro Exodus Enhanced Edition
+84. Metro: Last Light Redux
+85. Middle-earth™: Shadow of Mordor™
+86. Mini Thief
+87. Minimalism
+88. Nightmare Kart
+89. Once Human
+90. OpenTTD
+91. Overwatch®
+92. Papers, Please
+93. PAYDAY 2
+94. Portal
+95. Portal 2
+96. Press Any Button
+97. Resident Evil 2
+98. Resident Evil 7 Biohazard
+99. Resident Evil Re:Verse
+100. Resident Evil Village
+101. Rise of the Tomb Raider
+102. Roboquest
+103. RPG Maker VX Ace
+104. S.T.A.L.K.E.R.: Call of Pripyat
+105. S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition
+106. Severed Steel
+107. Sheepy: A Short Adventure
+108. Sniper Elite 4
+109. Spiritfarer®: Farewell Edition
+110. Splitgate
+111. Splitgate 2 - Alpha
+112. Stardew Valley
+113. SteamWorld Dig
+114. Stellar Mess: The Princess Conundrum (Chapter 1)
+115. Stray
+116. Streets of Rogue
+117. SUPERHOT
+118. Tell Me Why
+119. Terra Nil
+120. Thank Goodness You're Here!
+121. Titanfall® 2
+122. Tom Clancy's Ghost Recon® Wildlands
+123. Tom Clancy's Rainbow Six Siege - Test Server
+124. Tom Clancy's Rainbow Six: Vegas 2
+125. Tom Clancy's Rainbow Six® Siege X
+126. Tom Clancy's The Division 2
+127. Tomb Raider
+128. Undertale
+129. Unplagued
+130. Unturned
+131. Vampire Survivors
+132. Warhammer 40,000: Gladius - Relics of War
+133. Weapon of Choice
+134. What Remains of Edith Finch
+135. Wild Assault PlayTest
+136. The Witcher: Enhanced Edition
+137. The Witcher 2: Assassins of Kings Enhanced Edition
+138. The Witcher 3: Wild Hunt
+139. Wolfenstein: The New Order
+140. Zero Hour
+141. SNØ
+142. BattleBlock Theater
+143. Steep
 
 ## EPIC
 
