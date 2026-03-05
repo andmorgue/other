@@ -15,7 +15,7 @@
 ## Games
 - [Adrenaline](https://www.adrenaline.com.br/noticias)
 - [GamingOnLinux](https://www.gamingonlinux.com/)
-- [SteamDB](https://steamdb.info/sales/?category=-888%2C2&cc=br&displayOnly=Game&max_price=30&min_discount=50&min_rating=90&min_reviews=100&os=linux&tagid=-4345%2C-4667%2C-6650)
+- [SteamDB](https://steamdb.info/sales/?category=-888%2C2&cc=br&displayOnly=Game&max_price=30&min_discount=50&min_rating=90&min_reviews=100&os=linux&tagid=-4345%2C-4667%2C-5228%2C-6650)
 
 ## Metal
 - [Blabbermouth](https://blabbermouth.net/)
