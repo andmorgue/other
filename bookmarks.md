@@ -1,8 +1,8 @@
 # Bookmarks
 
 ## Press
-- [Folha de S.Paulo](https://www1.folha.uol.com.br/fsp/)
-- [The New York Times](https://www.nytimes.com/section/todayspaper)
+- [Folha de S.Paulo](https://www.folha.uol.com.br/)
+- [The New York Times](https://www.nytimes.com/)
 - [The Guardian](https://www.theguardian.com/)
 - [The Economist](https://www.economist.com/)
 - [The New Yorker](https://www.newyorker.com/)
