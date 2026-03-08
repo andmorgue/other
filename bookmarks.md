@@ -34,5 +34,6 @@
 - [X Games](https://www.youtube.com/@XGames/videos)
 
 ## Books
+- [Quatro cinco um](https://quatrocincoum.com.br/)
 - [PublishNews](https://www.publishnews.com.br/newsletters)
 - [Folha](https://www1.folha.uol.com.br/ilustrada/livros/)
