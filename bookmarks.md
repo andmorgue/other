@@ -10,7 +10,6 @@
 - [Blabbermouth](https://blabbermouth.net/)
 - [Metal Injection](https://metalinjection.net/news)
 - [Wikimetal](https://www.wikimetal.com.br/category/noticias/)
-- [Metal Hammer](https://www.loudersound.com/metal-hammer/news)
 
 ## Games
 - [Adrenaline](https://www.adrenaline.com.br/noticias)
