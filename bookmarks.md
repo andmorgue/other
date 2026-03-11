@@ -5,8 +5,6 @@
 - [The New York Times](https://www.nytimes.com/)
 - [The Guardian](https://www.theguardian.com/)
 - [The Economist](https://www.economist.com/)
-- [Veja](https://veja.abril.com.br/)
-- [The New Yorker](https://www.newyorker.com/)
 
 ## Metal
 - [Blabbermouth](https://blabbermouth.net/)
