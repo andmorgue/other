@@ -2,7 +2,7 @@
 
 ## Press
 - [Folha de S.Paulo](https://www.folha.uol.com.br/)
-- [The New York Times](https://www.nytimes.com/)
+- [The New York Times](https://www.nytimes.com/international/)
 - [The Guardian](https://www.theguardian.com/)
 - [The Economist](https://www.economist.com/)
 
