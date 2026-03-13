@@ -15,15 +15,15 @@
 - [9to5Linux](https://9to5linux.com/)
 - [Diolinux](https://diolinux.com.br/)
 
-## Sports
-- [NBA](https://www.nba.com/games)
-- [Fiba 3x3](https://www.youtube.com/fiba3x3/videos)
-- [FIS TV](https://watch.fis-ski.com/home)
+## Games
+- [Adrenaline](https://www.adrenaline.com.br/noticias)
+- [GamingOnLinux](https://www.gamingonlinux.com/)
 
 ## Books
 - [Quatro cinco um](https://quatrocincoum.com.br/)
 - [PublishNews](https://www.publishnews.com.br/newsletters)
 
-## Games
-- [Adrenaline](https://www.adrenaline.com.br/noticias)
-- [GamingOnLinux](https://www.gamingonlinux.com/)
+## Sports
+- [NBA](https://www.nba.com/games)
+- [Fiba 3x3](https://www.youtube.com/fiba3x3/videos)
+- [FIS TV](https://watch.fis-ski.com/home)
