@@ -25,5 +25,6 @@
 
 ## Sports
 - [NBA](https://www.nba.com/games)
+- [The Athletic](https://www.nytimes.com/athletic/nba/)
 - [Fiba 3x3](https://www.youtube.com/fiba3x3/videos)
 - [FIS TV](https://watch.fis-ski.com/home)
