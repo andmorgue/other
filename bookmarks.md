@@ -1,6 +1,6 @@
 # Bookmarks
 
-## Press
+## News
 - [Folha de S.Paulo](https://www.folha.uol.com.br/)
 - [The New York Times](https://www.nytimes.com/international/)
 - [The Guardian](https://www.theguardian.com/)
@@ -26,3 +26,5 @@
 ## Sports
 - [NBA](https://www.nba.com/games)
 - [FIS TV](https://watch.fis-ski.com/home)
+- [NBA News](https://www.nytimes.com/athletic/nba/)
+- [WNBA News](https://www.nytimes.com/athletic/wnba/)
