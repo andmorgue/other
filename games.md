@@ -467,3 +467,4 @@
 | 465 | Cozy Grove | Epic |
 | 466 | Isonzo | Epic |
 | 467 | NBA 2K26 | Steam |
+| 468 | Electrician Simulator | Epic |
