@@ -25,6 +25,5 @@
 
 ## Sports
 - [NBA](https://www.nba.com/games)
-- [FIS TV](https://watch.fis-ski.com/home)
 - [NBA News](https://www.nytimes.com/athletic/nba/)
 - [WNBA News](https://www.nytimes.com/athletic/wnba/)
