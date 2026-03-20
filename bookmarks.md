@@ -24,6 +24,6 @@
 - [PublishNews](https://www.publishnews.com.br/newsletters)
 
 ## Sports
-- [NBA](https://www.nba.com/games)
+- [NBA Games](https://www.nba.com/games)
 - [NBA News](https://www.nytimes.com/athletic/nba/)
 - [WNBA News](https://www.nytimes.com/athletic/wnba/)
