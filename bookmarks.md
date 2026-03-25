@@ -3,7 +3,6 @@
 - [The Guardian](https://www.theguardian.com/)
 - [The Economist](https://www.economist.com/)
 - [Blabbermouth](https://blabbermouth.net/)
-- [Metal Injection](https://metalinjection.net/news)
 - [Wikimetal](https://www.wikimetal.com.br/category/noticias/)
 - [Phoronix](https://www.phoronix.com/)
 - [9to5Linux](https://9to5linux.com/)
