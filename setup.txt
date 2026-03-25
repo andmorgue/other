@@ -1,5 +1,5 @@
 # OS
-Arch Linux
+Debian 13
 KDE Plasma
 Wayland
 Pipewire
