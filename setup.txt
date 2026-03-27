@@ -1,9 +1,6 @@
 # OS
-Debian 13
+CachyOS
 KDE Plasma
-Wayland
-Pipewire
-Ext4
 
 # HARDWARE
 AMD Ryzen 7 5700X
