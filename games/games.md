@@ -469,3 +469,6 @@
 | 467 | NBA 2K26 | Steam |
 | 468 | Electrician Simulator | Epic |
 | 469 | Wave Gods: Ammo Night | Epic |
+| 470 | Hyper Echelon | Epic |
+| 471 | Havendock | Epic |
+
