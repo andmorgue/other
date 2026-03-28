@@ -103,4 +103,37 @@ and@debian13:~$ vkmark
 =======================================================
 
 
+and@ubuntu26:~$ uname -r
+7.0.0-10-generic
+and@ubuntu26:~$ glxinfo | grep Mesa
+client glx vendor string: Mesa Project and SGI
+OpenGL core profile version string: 4.6 (Core Profile) Mesa 26.0.2-1ubuntu1
+OpenGL version string: 4.6 (Compatibility Profile) Mesa 26.0.2-1ubuntu1
+OpenGL ES profile version string: OpenGL ES 3.2 Mesa 26.0.2-1ubuntu1
+and@ubuntu26:~$ vkmark
+=======================================================
+    vkmark 2025.01
+=======================================================
+    Vendor ID:      0x1002
+    Device ID:      0x7480
+    Device Name:    AMD Radeon RX 7600 (RADV NAVI33)
+    Driver Version: 109051906
+    Device UUID:    6d9affd2b998752210f26ed179c079aa
+=======================================================
+[vertex] device-local=true: FPS: 14536 FrameTime: 0.069 ms
+[vertex] device-local=false: FPS: 15242 FrameTime: 0.066 ms
+[texture] anisotropy=0: FPS: 15635 FrameTime: 0.064 ms
+[texture] anisotropy=16: FPS: 15273 FrameTime: 0.065 ms
+[shading] shading=gouraud: FPS: 15604 FrameTime: 0.064 ms
+[shading] shading=blinn-phong-inf: FPS: 15647 FrameTime: 0.064 ms
+[shading] shading=phong: FPS: 15089 FrameTime: 0.066 ms
+[shading] shading=cel: FPS: 15284 FrameTime: 0.065 ms
+[effect2d] kernel=edge: FPS: 15587 FrameTime: 0.064 ms
+[effect2d] kernel=blur: FPS: 15378 FrameTime: 0.065 ms
+[desktop] <default>: FPS: 14220 FrameTime: 0.070 ms
+[cube] <default>: FPS: 14430 FrameTime: 0.069 ms
+[clear] <default>: FPS: 12240 FrameTime: 0.082 ms
+=======================================================
+                                   vkmark Score: 14935
+=======================================================
 
