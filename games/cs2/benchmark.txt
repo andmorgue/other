@@ -9,7 +9,7 @@ Corsair 480T Airflow
 ASUS TUF Gaming B550M-Plus
 
 # CS2 Settings
-Launch Options: None
+Steam Launch Options: None
 Display Mode: Fullcreen Windowed
 Resolution: 1280x960
 Refresh Rate: 240Hz
