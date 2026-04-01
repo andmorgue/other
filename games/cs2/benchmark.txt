@@ -1,0 +1,64 @@
+# HARDWARE
+AMD Ryzen 7 5700X
+AMD Radeon RX 7600
+Kingston KC3000 512GB
+XPG Gammix D10 8GB DDR4 3200 (x2)
+DeepCool AK400
+Corsair CX650
+Corsair 480T Airflow
+ASUS TUF Gaming B550M-Plus
+
+# CS2 Settings
+Launch Options: None
+Display Mode: Fullcreen Windowed
+Resolution: 1280x960
+Refresh Rate: 240Hz
+Boost Player Contrast: Enabled
+Wait for Vertical Sync:	Disabled
+Multisampling Anti-Aliasing Mode: CMAA2
+Global Shadow Quality: Low
+Dynamic Shadows: All
+Model/Texture Detail: Medium
+Texture Filtering Mode:	Anisotropic 4x
+Shader Detail: Low
+Particle Detail: Low
+Ambient Occlusion: Disabled
+High Dynamic Range: Quality
+FidelityFX Super Resolution: Disabled
+
+=========
+Debian 13
+=========
+and@debian:~$ uname -a
+Linux debian 6.12.74+deb13+1-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.74-2 (2026-03-08) x86_64 GNU/Linux
+and@debian:~$ glxinfo | grep Mesa
+client glx vendor string: Mesa Project and SGI
+OpenGL core profile version string: 4.6 (Core Profile) Mesa 25.0.7-2
+OpenGL version string: 4.6 (Compatibility Profile) Mesa 25.0.7-2
+OpenGL ES profile version string: OpenGL ES 3.2 Mesa 25.0.7-2
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 62490 frames and 121 1-second intervals.  (7046 frames excluded from analysis.)
+[VProf] FPS: Avg=516.6, P1=174.1
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   1.94   5.74    62490   1.94   5.74     6.17   7.67      121   6.17   7.67
+[VProf]       Client Rendering   1.24   1.99    62490   1.24   1.99     1.75   2.92      121   1.75   2.92
+[VProf]         Frame Boundary   0.76   1.33    62490   0.76   1.33     1.28   2.11      121   1.28   2.11
+[VProf]      Server Simulation   0.24   2.34     7739   1.95   2.73     2.48   3.19      121   2.48   3.19
+[VProf]      Client Simulation   0.24   1.09    62490   0.24   1.09     1.24   1.63      121   1.24   1.63
+[VProf]            Server Game   0.20   2.00     7739   1.63   2.19     2.11   2.75      121   2.11   2.75
+[VProf]    ClientSimulateFrame   0.16   0.34    62490   0.16   0.34     0.37   0.52      121   0.37   0.52
+[VProf]   Present_RenderDevice   0.12   0.70    62490   0.12   0.70     0.42   1.04      121   0.42   1.04
+[VProf]         SoundOperators   0.10   0.38    28923   0.21   0.42     0.43   0.76      121   0.43   0.76
+[VProf]           UserCommands   0.09   0.79     7739   0.69   0.93     0.91   1.12      121   0.91   1.12
+[VProf]     ClientSimulateTick   0.08   0.81     7739   0.64   0.95     0.90   1.27      121   0.90   1.27
+[VProf]       Server Animation   0.04   0.35     7739   0.31   0.44     0.40   0.51      121   0.40   0.51
+[VProf]                   NPCs   0.03   0.26     7739   0.21   0.33     0.30   0.66      121   0.30   0.66
+[VProf] Server Send Networking   0.02   0.18     7739   0.17   0.27     0.26   0.39      121   0.26   0.39
+[VProf]             Networking   0.02   0.16     7742   0.14   0.25     0.29   0.54      121   0.29   0.54
+[VProf]    Server PackEntities   0.01   0.12     7739   0.11   0.18     0.20   0.33      121   0.20   0.33
+[VProf] 
+[VProf] VProfLite stopped.
