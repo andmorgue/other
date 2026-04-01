@@ -29,13 +29,17 @@ FidelityFX Super Resolution: Disabled
 =========
 Debian 13
 =========
-and@debian:~$ uname -a
-Linux debian 6.12.74+deb13+1-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.74-2 (2026-03-08) x86_64 GNU/Linux
-and@debian:~$ glxinfo | grep Mesa
-client glx vendor string: Mesa Project and SGI
-OpenGL core profile version string: 4.6 (Core Profile) Mesa 25.0.7-2
-OpenGL version string: 4.6 (Compatibility Profile) Mesa 25.0.7-2
-OpenGL ES profile version string: OpenGL ES 3.2 Mesa 25.0.7-2
+Operating System: Debian GNU/Linux 13
+KDE Plasma Version: 6.3.6
+KDE Frameworks Version: 6.13.0
+Qt Version: 6.8.2
+Kernel Version: 6.12.74+deb13+1-amd64 (64-bit)
+Graphics Platform: Wayland
+Processors: 16 × AMD Ryzen 7 5700X 8-Core Processor
+Memory: 16 GiB of RAM (15.5 GiB usable)
+Graphics Processor: AMD Radeon RX 7600
+Manufacturer: ASUS
+Mesa 25.0.7-2
 [VProf] 
 [VProf] -- Performance report --
 [VProf] Summary of 62490 frames and 121 1-second intervals.  (7046 frames excluded from analysis.)
