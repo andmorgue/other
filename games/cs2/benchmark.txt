@@ -163,3 +163,44 @@ Mesa 26.0.2
 [VProf] 
 [VProf] VProfLite stopped.
 
+=======
+CachyOS
+=======
+Operating System: CachyOS Linux 
+KDE Plasma Version: 6.6.3
+KDE Frameworks Version: 6.24.0
+Qt Version: 6.11.0
+Kernel Version: 6.19.10-1-cachyos (64-bit)
+Graphics Platform: Wayland
+Processors: 16 × AMD Ryzen 7 5700X 8-Core Processor
+Memory: 16 GiB of RAM (15,5 GiB usable)
+Graphics Processor: AMD Radeon RX 7600
+Manufacturer: ASUS
+Mesa 26.0.3-arch2.2
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 63431 frames and 121 1-second intervals.  (7030 frames excluded from analysis.)
+[VProf] FPS: Avg=524.5, P1=167.9
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   1.91   5.96    63431   1.91   5.96     6.17   8.54      121   6.17   8.54
+[VProf]       Client Rendering   1.22   2.40    63431   1.22   2.40     1.81   2.75      121   1.81   2.75
+[VProf]         Frame Boundary   0.73   1.64    63431   0.73   1.64     1.39   2.33      121   1.39   2.33
+[VProf]      Server Simulation   0.23   2.32     7740   1.92   2.49     2.43   3.47      121   2.43   3.47
+[VProf]      Client Simulation   0.23   1.10    63431   0.23   1.10     1.21   1.53      121   1.21   1.53
+[VProf]            Server Game   0.20   1.96     7740   1.60   2.15     2.06   3.02      121   2.06   3.02
+[VProf]    ClientSimulateFrame   0.16   0.33    63431   0.16   0.33     0.35   0.50      121   0.35   0.50
+[VProf]   Present_RenderDevice   0.14   1.04    63431   0.14   1.04     0.49   1.36      121   0.49   1.36
+[VProf]         SoundOperators   0.11   0.42    32879   0.22   0.43     0.45   0.76      121   0.45   0.76
+[VProf]           UserCommands   0.09   0.81     7740   0.71   0.91     0.92   1.23      121   0.92   1.23
+[VProf]     ClientSimulateTick   0.08   0.83     7740   0.62   1.00     0.90   1.18      121   0.90   1.18
+[VProf]       Server Animation   0.04   0.34     7740   0.31   0.43     0.37   0.52      121   0.37   0.52
+[VProf]                   NPCs   0.02   0.24     7740   0.20   0.28     0.28   0.63      121   0.28   0.63
+[VProf] Server Send Networking   0.02   0.18     7740   0.16   0.23     0.24   0.39      121   0.24   0.39
+[VProf]             Networking   0.02   0.17     7744   0.15   0.23     0.28   0.51      121   0.28   0.51
+[VProf]    Server PackEntities   0.01   0.12     7740   0.11   0.22     0.18   0.34      121   0.18   0.34
+[VProf] 
+[VProf] VProfLite stopped.
+
