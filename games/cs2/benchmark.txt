@@ -26,9 +26,9 @@ Ambient Occlusion: Disabled
 High Dynamic Range: Quality
 FidelityFX Super Resolution: Disabled
 
-===============
-Debian 13 + KDE
-===============
+=========
+Debian 13
+=========
 Operating System: Debian GNU/Linux 13
 KDE Plasma Version: 6.3.6
 KDE Frameworks Version: 6.13.0
@@ -67,9 +67,9 @@ Mesa 25.0.7-2
 [VProf] 
 [VProf] VProfLite stopped.
 
-======================
-Arch + KDE + Linux-zen
-======================
+====
+Arch
+====
 [and@archlinux ~]$ fastfetch
                   -`                     and@archlinux
                  .o+`                    -------------
@@ -94,7 +94,7 @@ Arch + KDE + Linux-zen
                                          Disk (/): 63.63 GiB / 475.94 GiB (13%) - btrfs
                                          Local IP (enp6s0): 192.168.15.79/24
                                          Locale: en_US.UTF-8
-                                         Mesa: 26.0.3-arch1.1
+Mesa: 26.0.3-arch1.1
 [VProf] 
 [VProf] -- Performance report --
 [VProf] Summary of 65852 frames and 122 1-second intervals.  (7056 frames excluded from analysis.)
@@ -121,3 +121,45 @@ Arch + KDE + Linux-zen
 [VProf]    Server PackEntities   0.01   0.12     7758   0.11   0.20     0.19   0.33      122   0.19   0.33
 [VProf] 
 [VProf] VProfLite stopped.
+
+=======
+Bazzite
+=======
+Operating System: Bazzite 43
+KDE Plasma Version: 6.6.2
+KDE Frameworks Version: 6.23.0
+Qt Version: 6.10.2
+Kernel Version: 6.17.7-ba28.fc43.x86_64 (64-bit)
+Graphics Platform: Wayland
+Processors: 16 × AMD Ryzen 7 5700X 8-Core Processor
+Memory: 16 GiB of RAM (15.5 GiB usable)
+Graphics Processor: AMD Radeon RX 7600
+Manufacturer: ASUS
+Mesa 26.0.2
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 59659 frames and 120 1-second intervals.  (7201 frames excluded from analysis.)
+[VProf] FPS: Avg=496.6, P1=167.9
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   2.01   5.96    59659   2.01   5.96     6.29   9.20      120   6.29   9.20
+[VProf]       Client Rendering   1.29   2.11    59659   1.29   2.11     1.93   3.06      120   1.93   3.06
+[VProf]         Frame Boundary   0.76   1.49    59659   0.76   1.49     1.36   2.32      120   1.36   2.32
+[VProf]      Client Simulation   0.25   1.24    59659   0.25   1.24     1.27   1.74      120   1.27   1.74
+[VProf]      Server Simulation   0.25   2.29     7687   1.93   2.62     2.47   3.61      120   2.47   3.61
+[VProf]            Server Game   0.21   1.99     7687   1.61   2.30     2.08   3.11      120   2.08   3.11
+[VProf]    ClientSimulateFrame   0.17   0.34    59659   0.17   0.34     0.39   0.60      120   0.39   0.60
+[VProf]   Present_RenderDevice   0.14   0.88    59659   0.14   0.88     0.54   1.37      120   0.54   1.37
+[VProf]         SoundOperators   0.11   0.43    30356   0.22   0.44     0.44   0.78      120   0.44   0.78
+[VProf]           UserCommands   0.09   0.82     7687   0.70   0.92     0.92   1.22      120   0.92   1.22
+[VProf]     ClientSimulateTick   0.08   0.84     7687   0.64   0.95     0.92   1.23      120   0.92   1.23
+[VProf]       Server Animation   0.04   0.36     7687   0.32   0.48     0.43   0.58      120   0.43   0.58
+[VProf]                   NPCs   0.03   0.26     7687   0.21   0.33     0.32   0.64      120   0.32   0.64
+[VProf] Server Send Networking   0.02   0.19     7687   0.17   0.31     0.27   0.48      120   0.27   0.48
+[VProf]             Networking   0.02   0.17     7690   0.15   0.21     0.29   0.52      120   0.29   0.52
+[VProf]    Server PackEntities   0.01   0.13     7687   0.11   0.23     0.21   0.41      120   0.21   0.41
+[VProf] 
+[VProf] VProfLite stopped.
+
