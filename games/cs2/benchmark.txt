@@ -395,6 +395,54 @@ Mesa 26.0.3-1ubuntu1
 
 
 ==========
-Win11 25H2
+Win11 Home
 ==========
-
+Edition	Windows 11 Home
+Version	25H2
+Installed on	4/2/2026
+OS build	26200.8037
+Experience	Windows Feature Experience Pack 1000.26100.300.0
+Device name	DESKTOP-15EO6VM
+Processor	AMD Ryzen 7 5700X 8-Core Processor              (3.40 GHz)
+Installed RAM	16.0 GB
+Device ID	EB8A6746-E83A-4156-BD93-B20CB2D3DEE5
+Product ID	00326-10000-00000-AA681
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+Driver: AMD Radeon RX 7600
+Driver Version: 32.0.23033.1002
+DirectX Driver Version: 32.0.23033.1002
+Driver Date: 3 9 2026
+Desktop Color Depth: 32 bits per pixel
+Monitor Refresh Rate: 240 Hz
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 54459 frames and 122 1-second intervals.  (5893 frames excluded from analysis.)
+[VProf] FPS: Avg=448.6, P1=149.0
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   2.23   6.71    54459   2.23   6.71     6.93  10.96      122   6.93  10.96
+[VProf]       Client Rendering   1.29   2.40    54459   1.29   2.40     1.97   5.03      122   1.97   5.03
+[VProf]         Frame Boundary   0.77   1.60    54459   0.77   1.60     1.44   2.77      122   1.44   2.77
+[VProf]      Server Simulation   0.31   2.87     7767   2.20   3.79     2.72   4.16      122   2.72   4.16
+[VProf]      Client Simulation   0.30   1.24    54459   0.30   1.24     1.37   2.02      122   1.37   2.02
+[VProf]            Server Game   0.26   2.40     7767   1.85   3.03     2.36   3.56      122   2.36   3.56
+[VProf]    ClientSimulateFrame   0.20   0.60    54459   0.20   0.60     0.41   0.78      122   0.41   0.78
+[VProf]   Present_RenderDevice   0.13   0.78    54459   0.13   0.78     0.71   1.33      122   0.71   1.33
+[VProf]         SoundOperators   0.12   0.46    31520   0.21   0.51     0.46   0.74      122   0.46   0.74
+[VProf]           UserCommands   0.11   0.94     7767   0.79   1.31     1.05   1.51      122   1.05   1.51
+[VProf]     ClientSimulateTick   0.10   0.95     7767   0.71   1.13     1.01   1.39      122   1.01   1.39
+[VProf]             Prediction   0.09   0.53    54459   0.09   0.53     0.58   0.95      122   0.58   0.95
+[VProf]        LowLatencySleep   0.07   0.58    54459   0.07   0.58     0.42   1.43      122   0.42   1.43
+[VProf]       Server Animation   0.05   0.45     7767   0.37   0.56     0.47   0.71      122   0.47   0.71
+[VProf]                   NPCs   0.03   0.30     7767   0.24   0.40     0.33   0.74      122   0.33   0.74
+[VProf] Server Send Networking   0.03   0.24     7767   0.19   0.32     0.26   0.59      122   0.26   0.59
+[VProf]             Networking   0.03   0.22     7770   0.18   0.43     0.28   0.63      122   0.28   0.63
+[VProf]    Server PackEntities   0.02   0.17     7767   0.13   0.25     0.21   0.54      122   0.21   0.54
+[VProf]                  Magic   0.00   0.00      330   0.12   0.40     0.00   0.32       40   0.19   0.40
+[VProf]             Javascript   0.00   0.00      246   0.10   0.50     0.11   0.24      122   0.11   0.24
+[VProf]      PanoramaTextPango   0.00   0.00        1   0.19   0.19     0.00   0.00        1   0.19   0.19
+[VProf] 
+[VProf] VProfLite stopped.
