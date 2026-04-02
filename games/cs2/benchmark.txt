@@ -26,9 +26,9 @@ Ambient Occlusion: Disabled
 High Dynamic Range: Quality
 FidelityFX Super Resolution: Disabled
 
-=========
-Debian 13
-=========
+===============
+Debian 13 + KDE
+===============
 Operating System: Debian GNU/Linux 13
 KDE Plasma Version: 6.3.6
 KDE Frameworks Version: 6.13.0
@@ -64,5 +64,60 @@ Mesa 25.0.7-2
 [VProf] Server Send Networking   0.02   0.18     7739   0.17   0.27     0.26   0.39      121   0.26   0.39
 [VProf]             Networking   0.02   0.16     7742   0.14   0.25     0.29   0.54      121   0.29   0.54
 [VProf]    Server PackEntities   0.01   0.12     7739   0.11   0.18     0.20   0.33      121   0.20   0.33
+[VProf] 
+[VProf] VProfLite stopped.
+
+======================
+Arch + KDE + Linux-zen
+======================
+[and@archlinux ~]$ fastfetch
+                  -`                     and@archlinux
+                 .o+`                    -------------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Kernel: Linux 6.19.10-zen1-1-zen
+              `+oooooo:                  Uptime: 37 mins
+              -+oooooo+:                 Packages: 723 (pacman)
+            `/:-:++oooo+:                Shell: bash 5.3.9
+           `/++++/+++++++:               Display (ZOWIE XL LCD): 1920x1080 in 25", 240 Hz [External]
+          `/++++++++++++++:              DE: KDE Plasma 6.6.3
+         `/+++ooooooooooooo/`            WM: KWin (Wayland)
+        ./ooosssso++osssssso+`           WM Theme: Breeze
+       .oossssso-````/ossssss+`          Theme: Breeze (Light) [Qt]
+      -osssssso.      :ssssssso.         Icons: breeze [Qt]
+     :osssssss/        osssso+++.        Font: Noto Sans (10pt) [Qt]
+    /ossssssss/        +ssssooo/-        Cursor: breeze (24px)
+  `/ossssso+/:-        -:/+osssso+-      Terminal: konsole 25.12.3
+ `+sso+:-`                 `.-/+oso:     CPU: AMD Ryzen 7 5700X (16) @ 4.67 GHz
+`++:.                           `-/+/    GPU: AMD Radeon RX 7600 [Discrete]
+.`                                 `/    Memory: 6.07 GiB / 15.52 GiB (39%)
+                                         Swap: 32.00 KiB / 4.00 GiB (0%)
+                                         Disk (/): 63.63 GiB / 475.94 GiB (13%) - btrfs
+                                         Local IP (enp6s0): 192.168.15.79/24
+                                         Locale: en_US.UTF-8
+                                         Mesa: 26.0.3-arch1.1
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 65852 frames and 122 1-second intervals.  (7056 frames excluded from analysis.)
+[VProf] FPS: Avg=543.2, P1=177.9
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   1.84   5.62    65852   1.84   5.62     5.93   7.68      122   5.93   7.68
+[VProf]       Client Rendering   1.20   2.08    65852   1.20   2.08     1.84   2.78      122   1.84   2.78
+[VProf]         Frame Boundary   0.72   1.59    65852   0.72   1.59     1.23   2.46      122   1.23   2.46
+[VProf]      Client Simulation   0.22   1.07    65852   0.22   1.07     1.20   1.45      122   1.20   1.45
+[VProf]      Server Simulation   0.22   2.19     7758   1.83   2.51     2.32   3.16      122   2.32   3.16
+[VProf]            Server Game   0.18   1.87     7758   1.53   2.13     1.99   2.75      122   1.99   2.75
+[VProf]   Present_RenderDevice   0.16   0.98    65852   0.16   0.98     0.46   1.45      122   0.46   1.45
+[VProf]    ClientSimulateFrame   0.15   0.33    65852   0.15   0.33     0.34   0.51      122   0.34   0.51
+[VProf]         SoundOperators   0.09   0.39    30084   0.20   0.40     0.41   0.76      122   0.41   0.76
+[VProf]           UserCommands   0.08   0.75     7758   0.67   0.90     0.86   1.17      122   0.86   1.17
+[VProf]     ClientSimulateTick   0.07   0.78     7758   0.61   0.90     0.88   1.14      122   0.88   1.14
+[VProf]       Server Animation   0.04   0.33     7758   0.30   0.37     0.38   0.51      122   0.38   0.51
+[VProf]                   NPCs   0.02   0.24     7758   0.19   0.27     0.27   0.66      122   0.27   0.66
+[VProf] Server Send Networking   0.02   0.17     7758   0.16   0.23     0.24   0.39      122   0.24   0.39
+[VProf]             Networking   0.02   0.17     7762   0.14   0.20     0.27   0.51      122   0.27   0.51
+[VProf]    Server PackEntities   0.01   0.12     7758   0.11   0.20     0.19   0.33      122   0.19   0.33
 [VProf] 
 [VProf] VProfLite stopped.
