@@ -280,5 +280,54 @@ ext4
 ====
 Mint
 ====
-
+and@mint:~$ neofetch
+             ...-:::::-...                 and@mint 
+          .-MMMMMMMMMMMMMMM-.              -------- 
+      .-MMMM`..-:::::::-..`MMMM-.          OS: Linux Mint 22.3 x86_64 
+    .:MMMM.:MMMMMMMMMMMMMMM:.MMMM:.        Kernel: 6.17.0-20-generic 
+   -MMM-M---MMMMMMMMMMMMMMMMMMM.MMM-       Uptime: 19 secs 
+ `:MMM:MM`  :MMMM:....::-...-MMMM:MMM:`    Packages: 2155 (dpkg) 
+ :MMM:MMM`  :MM:`  ``    ``  `:MMM:MMM:    Shell: bash 5.2.21 
+.MMM.MMMM`  :MM.  -MM.  .MM-  `MMMM.MMM.   Resolution: 1920x1080 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM-MMM:   DE: Cinnamon 6.6.7 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM:MMM:   WM: Mutter (Muffin) 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM-MMM:   WM Theme: Mint-Y-Dark-Aqua (Mint-Y) 
+.MMM.MMMM`  :MM:--:MM:--:MM:  `MMMM.MMM.   Theme: Mint-Y-Aqua [GTK2/3] 
+ :MMM:MMM-  `-MMMMMMMMMMMM-`  -MMM-MMM:    Icons: Mint-Y-Sand [GTK2/3] 
+  :MMM:MMM:`                `:MMM:MMM:     Terminal: gnome-terminal 
+   .MMM.MMMM:--------------:MMMM.MMM.      CPU: AMD Ryzen 7 5700X (16) @ 4.665G 
+     '-MMMM.-MMMMMMMMMMMMMMM-.MMMM-'       GPU: AMD ATI Radeon RX 7700S/7600/76 
+       '.-MMMM``--:::::--``MMMM-.'         Memory: 1411MiB / 15900MiB 
+            '-MMMMMMMMMMMMM-'
+               ``-:::::-``                                         
+                                                                   
+Mesa 25.2.8-0ubuntu0.24.04.1
 ext4
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 62919 frames and 122 1-second intervals.  (6499 frames excluded from analysis.)
+[VProf] FPS: Avg=516.5, P1=167.4
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   1.94   5.97    62919   1.94   5.97     6.34   7.97      122   6.34   7.97
+[VProf]       Client Rendering   1.24   2.05    62919   1.24   2.05     1.88   3.65      122   1.88   3.65
+[VProf]         Frame Boundary   0.73   1.58    62919   0.73   1.58     1.33   2.71      122   1.33   2.71
+[VProf]      Client Simulation   0.25   1.09    62919   0.25   1.09     1.22   1.40      122   1.22   1.40
+[VProf]      Server Simulation   0.24   2.20     7795   1.91   2.58     2.37   3.13      122   2.37   3.13
+[VProf]            Server Game   0.20   1.95     7795   1.59   2.26     2.00   2.76      122   2.00   2.76
+[VProf]    ClientSimulateFrame   0.17   0.34    62919   0.17   0.34     0.37   0.46      122   0.37   0.46
+[VProf]   Present_RenderDevice   0.13   1.05    62919   0.13   1.05     0.45   1.37      122   0.45   1.37
+[VProf]         SoundOperators   0.11   0.40    33603   0.20   0.43     0.41   0.75      122   0.41   0.75
+[VProf]           UserCommands   0.09   0.80     7795   0.71   0.96     0.88   1.14      122   0.88   1.14
+[VProf]     ClientSimulateTick   0.08   0.82     7795   0.63   0.92     0.88   1.07      122   0.88   1.07
+[VProf]       Server Animation   0.04   0.35     7795   0.32   0.38     0.37   0.50      122   0.37   0.50
+[VProf]                   NPCs   0.03   0.26     7795   0.21   0.30     0.29   0.66      122   0.29   0.66
+[VProf] Server Send Networking   0.02   0.18     7795   0.16   0.24     0.21   0.38      122   0.21   0.38
+[VProf]             Networking   0.02   0.17     7797   0.15   0.22     0.23   0.52      122   0.23   0.52
+[VProf]    Server PackEntities   0.01   0.12     7795   0.11   0.19     0.15   0.33      122   0.15   0.33
+[VProf] 
+[VProf] VProfLite stopped.
+
+
