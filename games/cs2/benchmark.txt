@@ -37,6 +37,10 @@ Ambient Occlusion: Disabled
 High Dynamic Range: Quality
 FidelityFX Super Resolution: Disabled
 
+# ALL TESTS
+Benchmark run right after OS install with no configs, only updates.
+The CS2 benchmark results are from the first run. Never 2nd or 3rd.
+Run in the same day: 02/Apr/26.
 
 =========
 Debian 13
@@ -331,3 +335,62 @@ ext4
 [VProf] VProfLite stopped.
 
 
+============
+Ubuntu 26.04
+============
+                             ....              and@and-System-Product-Name
+              .',:clooo:  .:looooo:.           ---------------------------
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Resolute Raccoon (development branch) x86_64
+        .;looooool:,''.  :ooooooooooc          Kernel: Linux 7.0.0-10-generic
+       ;looool;.         'oooooooooo,          Uptime: 3 mins
+      ;clool'             .cooooooc.  ,,       Packages: 1687 (dpkg), 12 (snap)
+         ...                ......  .:oo,      Shell: bash 5.3.9
+  .;clol:,.                        .loooo'     Display (ZOWIE XL LCD): 1920x1080 in 24", 240 Hz [External]
+ :ooooooooo,                        'ooool     DE: GNOME 50.0
+'ooooooooooo.                        loooo.    WM: Mutter (Wayland)
+'ooooooooool                         coooo.    WM Theme: Yaru
+ ,loooooooc.                        .loooo.    Theme: Yaru [GTK2/3/4]
+   .,;;;'.                          ;ooooc     Icons: Yaru [GTK2/3/4]
+       ...                         ,ooool.     Font: Ubuntu Sans (11pt) [GTK2/3/4]
+    .cooooc.              ..',,'.  .cooo.      Cursor: Yaru (24px)
+      ;ooooo:.           ;oooooooc.  :l.       Terminal: Ptyxis 50.1
+       .coooooc,..      coooooooooo.           Terminal Font: Ubuntu Sans Mono (11pt)
+         .:ooooooolc:. .ooooooooooo'           CPU: AMD Ryzen 7 5700X (16) @ 4.67 GHz
+           .':loooooo;  ,oooooooooc            GPU: AMD Radeon RX 7600 [Discrete]
+               ..';::c'  .;loooo:'             Memory: 2.23 GiB / 15.02 GiB (15%)
+                                               Swap: 0 B / 4.00 GiB (0%)
+                                               Disk (/): 11.58 GiB / 467.35 GiB (2%) - ext4
+                                               Local IP (wlx40a5ef5a2318): 192.168.15.73/24
+                                               Locale: en_US.UTF-8
+Mesa 26.0.3-1ubuntu1
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 60484 frames and 120 1-second intervals.  (7729 frames excluded from analysis.)
+[VProf] FPS: Avg=504.4, P1=170.2
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   1.98   5.87    60484   1.98   5.87     6.31   8.99      120   6.31   8.99
+[VProf]       Client Rendering   1.27   2.18    60484   1.27   2.18     1.93   5.03      120   1.93   5.03
+[VProf]         Frame Boundary   0.76   1.59    60484   0.76   1.59     1.38   3.23      120   1.38   3.23
+[VProf]      Client Simulation   0.25   1.10    60484   0.25   1.10     1.25   1.44      120   1.25   1.44
+[VProf]      Server Simulation   0.24   2.28     7674   1.92   2.71     2.42   3.50      120   2.42   3.50
+[VProf]            Server Game   0.20   1.98     7674   1.60   2.30     2.05   2.82      120   2.05   2.82
+[VProf]    ClientSimulateFrame   0.17   0.34    60484   0.17   0.34     0.37   0.54      120   0.37   0.54
+[VProf]   Present_RenderDevice   0.15   0.96    60484   0.15   0.96     0.53   2.46      120   0.53   2.46
+[VProf]         SoundOperators   0.10   0.42    28804   0.22   0.45     0.42   0.75      120   0.42   0.75
+[VProf]           UserCommands   0.09   0.82     7674   0.71   1.01     0.91   1.18      120   0.91   1.18
+[VProf]     ClientSimulateTick   0.08   0.81     7674   0.64   0.91     0.90   1.08      120   0.90   1.08
+[VProf]       Server Animation   0.04   0.35     7674   0.31   0.37     0.36   0.47      120   0.36   0.47
+[VProf]                   NPCs   0.03   0.26     7674   0.21   0.30     0.30   0.67      120   0.30   0.67
+[VProf] Server Send Networking   0.02   0.18     7674   0.17   0.24     0.22   0.39      120   0.22   0.39
+[VProf]             Networking   0.02   0.17     7678   0.15   0.21     0.23   0.53      120   0.23   0.53
+[VProf]    Server PackEntities   0.01   0.12     7674   0.11   0.16     0.15   0.33      120   0.15   0.33
+[VProf] 
+[VProf] VProfLite stopped.
+
+
+==========
+Win11 25H2
+==========
