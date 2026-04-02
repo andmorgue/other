@@ -8,7 +8,18 @@ Corsair CX650
 Corsair 480T Airflow
 ASUS TUF Gaming B550M-Plus
 
-# CS2 Settings
+# PERIPHERALS
+Comfast CF-WU785AC (MT7612U)
+Razer Huntsman V3 Pro Mini
+Zowie XL2546K
+Logitech G Pro X Superlight
+Corsair MM100
+Dualshock 4 (Wired)
+GraveAudio DA06 (CX31993)
+Sennheiser IE 100 Pro
+HP DeskJet Ink Advantage 3776
+
+# CS2 SETTINGS
 Steam Launch Options: None
 Display Mode: Fullcreen Windowed
 Resolution: 1280x960
@@ -26,6 +37,7 @@ Ambient Occlusion: Disabled
 High Dynamic Range: Quality
 FidelityFX Super Resolution: Disabled
 
+
 =========
 Debian 13
 =========
@@ -40,6 +52,7 @@ Memory: 16 GiB of RAM (15.5 GiB usable)
 Graphics Processor: AMD Radeon RX 7600
 Manufacturer: ASUS
 Mesa 25.0.7-2
+ext4
 [VProf] 
 [VProf] -- Performance report --
 [VProf] Summary of 62490 frames and 121 1-second intervals.  (7046 frames excluded from analysis.)
@@ -66,6 +79,7 @@ Mesa 25.0.7-2
 [VProf]    Server PackEntities   0.01   0.12     7739   0.11   0.18     0.20   0.33      121   0.20   0.33
 [VProf] 
 [VProf] VProfLite stopped.
+
 
 ====
 Arch
@@ -122,6 +136,7 @@ Mesa: 26.0.3-arch1.1
 [VProf] 
 [VProf] VProfLite stopped.
 
+
 =======
 Bazzite
 =======
@@ -136,6 +151,7 @@ Memory: 16 GiB of RAM (15.5 GiB usable)
 Graphics Processor: AMD Radeon RX 7600
 Manufacturer: ASUS
 Mesa 26.0.2
+btrfs
 [VProf] 
 [VProf] -- Performance report --
 [VProf] Summary of 59659 frames and 120 1-second intervals.  (7201 frames excluded from analysis.)
@@ -163,6 +179,7 @@ Mesa 26.0.2
 [VProf] 
 [VProf] VProfLite stopped.
 
+
 =======
 CachyOS
 =======
@@ -177,6 +194,7 @@ Memory: 16 GiB of RAM (15,5 GiB usable)
 Graphics Processor: AMD Radeon RX 7600
 Manufacturer: ASUS
 Mesa 26.0.3-arch2.2
+btrfs
 [VProf] 
 [VProf] -- Performance report --
 [VProf] Summary of 63431 frames and 121 1-second intervals.  (7030 frames excluded from analysis.)
@@ -203,4 +221,60 @@ Mesa 26.0.3-arch2.2
 [VProf]    Server PackEntities   0.01   0.12     7740   0.11   0.22     0.18   0.34      121   0.18   0.34
 [VProf] 
 [VProf] VProfLite stopped.
+
+
+=======
+Pop_OS!
+=======
+and@pop-os:~$ neofetch
+             /////////////                and@pop-os
+         /////////////////////            ----------
+      ///////*767////////////////         OS: Pop!_OS 24.04 LTS x86_64
+    //////7676767676*//////////////       Kernel: 6.17.9-76061709-generic
+   /////76767//7676767//////////////      Uptime: 7 mins
+  /////767676///*76767///////////////     Packages: 1965 (dpkg)
+ ///////767676///76767.///7676*///////    Shell: bash 5.2.21
+/////////767676//76767///767676////////   Resolution: 1920x1080
+//////////76767676767////76767/////////   DE: COSMIC
+///////////76767676//////7676//////////   Theme: adw-gtk3-dark [GTK3]
+////////////,7676,///////767///////////   Icons: Cosmic [GTK3]
+/////////////*7676///////76////////////   Terminal: cosmic-term
+///////////////7676////////////////////   CPU: AMD Ryzen 7 5700X (16) @ 4.665GHz
+ ///////////////7676///767////////////    GPU: AMD ATI Radeon RX 7700S/7600/7600S/7600M XT/PRO W7600
+  //////////////////////'////////////     Memory: 3071MiB / 15898MiB
+   //////.7676767676767676767,//////
+    /////767676767676767676767/////
+      ///////////////////////////
+         /////////////////////
+             /////////////
+Mesa 25.2.8-0ubuntu0.24.04.1
+ext4
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 63894 frames and 121 1-second intervals.  (7828 frames excluded from analysis.)
+[VProf] FPS: Avg=529.9, P1=180.1
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   1.89   5.55    63894   1.89   5.55     5.93   7.22      121   5.93   7.22
+[VProf]       Client Rendering   1.23   2.07    63894   1.23   2.07     1.90   2.69      121   1.90   2.69
+[VProf]         Frame Boundary   0.72   1.68    63894   0.72   1.68     1.25   2.24      121   1.25   2.24
+[VProf]      Client Simulation   0.24   1.09    63894   0.24   1.09     1.21   1.39      121   1.21   1.39
+[VProf]      Server Simulation   0.22   2.22     7716   1.86   2.53     2.34   3.02      121   2.34   3.02
+[VProf]            Server Game   0.19   1.90     7716   1.55   2.13     1.98   2.44      121   1.98   2.44
+[VProf]    ClientSimulateFrame   0.16   0.31    63894   0.16   0.31     0.36   0.43      121   0.36   0.43
+[VProf]   Present_RenderDevice   0.13   0.94    63894   0.13   0.94     0.44   1.49      121   0.44   1.49
+[VProf]         SoundOperators   0.10   0.37    29150   0.21   0.39     0.40   0.70      121   0.40   0.70
+[VProf]           UserCommands   0.08   0.78     7716   0.68   0.88     0.86   1.05      121   0.86   1.05
+[VProf]     ClientSimulateTick   0.08   0.79     7716   0.63   0.94     0.89   1.04      121   0.89   1.04
+[VProf]       Server Animation   0.04   0.34     7716   0.31   0.37     0.36   0.43      121   0.36   0.43
+[VProf]                   NPCs   0.02   0.25     7716   0.20   0.28     0.28   0.64      121   0.28   0.64
+[VProf] Server Send Networking   0.02   0.18     7716   0.16   0.20     0.21   0.36      121   0.21   0.36
+[VProf]             Networking   0.02   0.17     7719   0.14   0.33     0.23   0.49      121   0.23   0.49
+[VProf]    Server PackEntities   0.01   0.12     7716   0.11   0.16     0.15   0.31      121   0.15   0.31
+[VProf] 
+[VProf] VProfLite stopped.
+
+
 
