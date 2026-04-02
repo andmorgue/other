@@ -40,9 +40,11 @@ FidelityFX Super Resolution: Disabled
 # ALL TESTS
 Benchmark run right after OS install with no configs, only updates.
 Steam Shader Pre-caching disable to test the raw performance
-None Steam launch option used
 The CS2 benchmark results are from the first run. Never 2nd or 3rd.
 Run in the same day: 02/Apr/26.
+
+# WORKSHOP USED
+https://steamcommunity.com/workshop/filedetails/?id=3240880604
 
 # BENCHMARKS
 =========
@@ -490,3 +492,17 @@ Monitor Refresh Rate: 240 Hz
 [VProf]      PanoramaTextPango   0.00   0.00        1   0.19   0.19     0.00   0.00        1   0.19   0.19
 [VProf] 
 [VProf] VProfLite stopped.
+
+
+# OVERVIEW
+RANK  OPERATING SYSTEM          P1 (1%)  AVG FPS  DRIVER VERSION   DE
+----  ----------------          -------  -------  --------------   --
+01    CachyOS (Minimal)         178.1    539.7    Mesa 26.0.3      Plasma 6.6.3
+02    Arch Linux                177.9    543.2    Mesa 26.0.3      Plasma 6.6.3
+03    Pop!_OS 24.04             175.4    526.9    Mesa 25.2.8      COSMIC
+04    Debian 13                 174.1    516.6    Mesa 25.0.7      Plasma 6.3.6
+05    Ubuntu 26.04              170.2    504.4    Mesa 26.0.3      GNOME 50.0
+06    CachyOS (Full)            167.9    524.5    Mesa 26.0.3      Plasma 6.6.3
+07    Bazzite 43                167.9    496.6    Mesa 26.0.2      Plasma 6.6.2
+08    Linux Mint 22.3           167.4    516.5    Mesa 25.2.8      Cinnamon 6.6.7
+09    Win11 Home (25H2)         149.0    448.6    AMD 32.0.23      Explorer
