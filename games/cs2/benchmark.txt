@@ -6,7 +6,7 @@ RANK  OPERATING SYSTEM          1% LOW   AVG FPS  KERNEL          DRIVER VERSION
 03    Pop!_OS 24.04             175.4    526.9    6.18.7-generic  Mesa 25.2.8      COSMIC
 04    Debian 13                 174.1    516.6    6.12.74-amd64   Mesa 25.0.7      Plasma 6.3.6
 05    Ubuntu 26.04              170.2    504.4    7.0.0-generic   Mesa 26.0.3      GNOME 50.0
-06    CachyOS (Full)            167.9    524.5    6.19.10-cachyos Mesa 26.0.3      Plasma 6.6.3
+06    CachyOS (Default)         167.9    524.5    6.19.10-cachyos Mesa 26.0.3      Plasma 6.6.3
 07    Bazzite 43                167.9    496.6    6.17.7-ba28     Mesa 26.0.2      Plasma 6.6.2
 08    Linux Mint 22.3           167.4    516.5    6.17.0-generic  Mesa 25.2.8      Cinnamon 6.6.7
 09    Win11 Home (25H2)         149.0    448.6    NT 10.0.26200   AMD 32.0.23      Explorer
@@ -18,7 +18,7 @@ RANK  OPERATING SYSTEM          1% LOW   AVG FPS
 03    Pop!_OS 24.04             117.7%   117.5%
 04    Debian 13                 116.8%   115.2%
 05    Ubuntu 26.04              114.2%   112.4%
-06    CachyOS (Full)            112.7%   116.9%
+06    CachyOS (Default)         112.7%   116.9%
 07    Bazzite 43                112.7%   110.7%
 08    Linux Mint 22.3           112.3%   115.1%
 09    Win11 Home (Baseline)     100.0%   100.0%
@@ -140,7 +140,6 @@ Arch
 .`                                 `/    Memory: 6.07 GiB / 15.52 GiB (39%)
                                          Swap: 32.00 KiB / 4.00 GiB (0%)
                                          Disk (/): 63.63 GiB / 475.94 GiB (13%) - btrfs
-                                         Local IP (enp6s0): 192.168.15.79/24
                                          Locale: en_US.UTF-8
 Mesa: 26.0.3-arch1.1
 [VProf] 
@@ -214,9 +213,9 @@ btrfs
 [VProf] VProfLite stopped.
 
 
-======================
-CachyOS Full (Default)
-======================
+=================
+CachyOS (Default)
+=================
 Operating System: CachyOS Linux 
 KDE Plasma Version: 6.6.3
 KDE Frameworks Version: 6.24.0
@@ -257,9 +256,10 @@ btrfs
 [VProf] VProfLite stopped.
 
 
-=============================
-CachyOS Minimal (Kernel only)
-=============================
+==================
+CachyOS (Minimal)*
+==================
+* Removed all packages, themes, etc CachyOS adds to Arch, leaving only the kernel v3 and repos. Also ext4 instead of btfrs
 Operating System: CachyOS Linux 
 KDE Plasma Version: 6.6.3
 KDE Frameworks Version: 6.24.0
