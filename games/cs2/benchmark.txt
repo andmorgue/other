@@ -39,9 +39,12 @@ FidelityFX Super Resolution: Disabled
 
 # ALL TESTS
 Benchmark run right after OS install with no configs, only updates.
+Steam Shader Pre-caching disable to test the raw performance
+None Steam launch option used
 The CS2 benchmark results are from the first run. Never 2nd or 3rd.
 Run in the same day: 02/Apr/26.
 
+# BENCHMARKS
 =========
 Debian 13
 =========
@@ -230,13 +233,12 @@ btrfs
 =======
 Pop_OS!
 =======
-and@pop-os:~$ neofetch
              /////////////                and@pop-os
          /////////////////////            ----------
       ///////*767////////////////         OS: Pop!_OS 24.04 LTS x86_64
-    //////7676767676*//////////////       Kernel: 6.17.9-76061709-generic
-   /////76767//7676767//////////////      Uptime: 7 mins
-  /////767676///*76767///////////////     Packages: 1965 (dpkg)
+    //////7676767676*//////////////       Kernel: 6.18.7-76061807-generic
+   /////76767//7676767//////////////      Uptime: 1 min
+  /////767676///*76767///////////////     Packages: 1963 (dpkg)
  ///////767676///76767.///7676*///////    Shell: bash 5.2.21
 /////////767676//76767///767676////////   Resolution: 1920x1080
 //////////76767676767////76767/////////   DE: COSMIC
@@ -245,7 +247,7 @@ and@pop-os:~$ neofetch
 /////////////*7676///////76////////////   Terminal: cosmic-term
 ///////////////7676////////////////////   CPU: AMD Ryzen 7 5700X (16) @ 4.665GHz
  ///////////////7676///767////////////    GPU: AMD ATI Radeon RX 7700S/7600/7600S/7600M XT/PRO W7600
-  //////////////////////'////////////     Memory: 3071MiB / 15898MiB
+  //////////////////////'////////////     Memory: 2334MiB / 15898MiB
    //////.7676767676767676767,//////
     /////767676767676767676767/////
       ///////////////////////////
@@ -255,28 +257,29 @@ Mesa 25.2.8-0ubuntu0.24.04.1
 ext4
 [VProf] 
 [VProf] -- Performance report --
-[VProf] Summary of 63894 frames and 121 1-second intervals.  (7828 frames excluded from analysis.)
-[VProf] FPS: Avg=529.9, P1=180.1
+[VProf] Summary of 64189 frames and 122 1-second intervals.  (6516 frames excluded from analysis.)
+[VProf] FPS: Avg=526.9, P1=175.4
 [VProf] 
 [VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
 [VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
 [VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
-[VProf]             FrameTotal   1.89   5.55    63894   1.89   5.55     5.93   7.22      121   5.93   7.22
-[VProf]       Client Rendering   1.23   2.07    63894   1.23   2.07     1.90   2.69      121   1.90   2.69
-[VProf]         Frame Boundary   0.72   1.68    63894   0.72   1.68     1.25   2.24      121   1.25   2.24
-[VProf]      Client Simulation   0.24   1.09    63894   0.24   1.09     1.21   1.39      121   1.21   1.39
-[VProf]      Server Simulation   0.22   2.22     7716   1.86   2.53     2.34   3.02      121   2.34   3.02
-[VProf]            Server Game   0.19   1.90     7716   1.55   2.13     1.98   2.44      121   1.98   2.44
-[VProf]    ClientSimulateFrame   0.16   0.31    63894   0.16   0.31     0.36   0.43      121   0.36   0.43
-[VProf]   Present_RenderDevice   0.13   0.94    63894   0.13   0.94     0.44   1.49      121   0.44   1.49
-[VProf]         SoundOperators   0.10   0.37    29150   0.21   0.39     0.40   0.70      121   0.40   0.70
-[VProf]           UserCommands   0.08   0.78     7716   0.68   0.88     0.86   1.05      121   0.86   1.05
-[VProf]     ClientSimulateTick   0.08   0.79     7716   0.63   0.94     0.89   1.04      121   0.89   1.04
-[VProf]       Server Animation   0.04   0.34     7716   0.31   0.37     0.36   0.43      121   0.36   0.43
-[VProf]                   NPCs   0.02   0.25     7716   0.20   0.28     0.28   0.64      121   0.28   0.64
-[VProf] Server Send Networking   0.02   0.18     7716   0.16   0.20     0.21   0.36      121   0.21   0.36
-[VProf]             Networking   0.02   0.17     7719   0.14   0.33     0.23   0.49      121   0.23   0.49
-[VProf]    Server PackEntities   0.01   0.12     7716   0.11   0.16     0.15   0.31      121   0.15   0.31
+[VProf]             FrameTotal   1.90   5.70    64189   1.90   5.70     6.15   8.88      122   6.15   8.88
+[VProf]       Client Rendering   1.22   2.08    64189   1.22   2.08     1.79   2.98      122   1.79   2.98
+[VProf]         Frame Boundary   0.72   1.53    64189   0.72   1.53     1.17   2.32      122   1.17   2.32
+[VProf]      Client Simulation   0.24   1.12    64189   0.24   1.12     1.24   1.63      122   1.24   1.63
+[VProf]      Server Simulation   0.23   2.24     7796   1.89   2.60     2.40   3.58      122   2.40   3.58
+[VProf]            Server Game   0.19   1.91     7796   1.58   2.34     2.05   3.01      122   2.05   3.01
+[VProf]    ClientSimulateFrame   0.16   0.32    64189   0.16   0.32     0.36   0.59      122   0.36   0.59
+[VProf]   Present_RenderDevice   0.12   0.84    64189   0.12   0.84     0.40   1.50      122   0.40   1.50
+[VProf]         SoundOperators   0.09   0.39    29107   0.21   0.43     0.39   0.75      122   0.39   0.75
+[VProf]           UserCommands   0.08   0.79     7796   0.70   0.94     0.89   1.24      122   0.89   1.24
+[VProf]     ClientSimulateTick   0.08   0.81     7796   0.63   0.94     0.90   1.17      122   0.90   1.17
+[VProf]       Server Animation   0.04   0.35     7796   0.31   0.39     0.36   0.52      122   0.36   0.52
+[VProf]                   NPCs   0.03   0.26     7796   0.21   0.33     0.30   0.65      122   0.30   0.65
+[VProf] Server Send Networking   0.02   0.18     7796   0.16   0.24     0.21   0.38      122   0.21   0.38
+[VProf]             Networking   0.02   0.17     7800   0.15   0.22     0.22   0.52      122   0.22   0.52
+[VProf]    Server PackEntities   0.01   0.12     7796   0.11   0.19     0.15   0.32      122   0.15   0.32
+[VProf]      PanoramaTextPango   0.00   0.00        1   0.10   0.10     0.00   0.00        1   0.10   0.10
 [VProf] 
 [VProf] VProfLite stopped.
 
@@ -394,3 +397,4 @@ Mesa 26.0.3-1ubuntu1
 ==========
 Win11 25H2
 ==========
+
