@@ -1,8 +1,9 @@
 # OS
-CachyOS
+Arch with linux-zen
 KDE Plasma
 Wayland
-Ext4
+Pipewire
+Btrfs with compression
 
 # HARDWARE
 AMD Ryzen 7 5700X
