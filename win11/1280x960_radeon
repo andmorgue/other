@@ -1,0 +1,5 @@
+$path = "HKLM:\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000"
+$data = [byte[]](0x12, 0x80, 0x09, 0x60, 0x00, 0x00, 0x00, 0x00)
+Set-ItemProperty -Path $path -Name "DALNonStandardModesBCD2" -Value $data -Type Binary
+Disable-PnpDevice -InstanceId (Get-PnpDevice -FriendlyName "AMD Radeon RX 7600").InstanceId -Confirm:$false
+Enable-PnpDevice -InstanceId (Get-PnpDevice -FriendlyName "AMD Radeon RX 7600").InstanceId -Confirm:$false
