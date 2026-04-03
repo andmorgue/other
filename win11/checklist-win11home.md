@@ -4,29 +4,19 @@
 - Config Power
 - Config Personalization
 - Disable all Startup Apps
-- Install Firefox via Terminal (Admin):
-```
-winget install --id Mozilla.Firefox --source winget
-```
+- Install prefered browser
+- Config Browser
 - Config Time in Terminal (Admin):
 ```
  reg add "HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation" /v RealTimeIsUniversal /t REG_DWORD /d 1 /f
 ```
-- Config Firefox
-- Download and Install Lastest Nvidia Driver:
-```
-https://www.nvidia.com/en-us/geforce/drivers/
-```
+- Download and Install Lastest Video Driver
 - Adjust Display frequency to 240Hz
 - Download Zowie WHQL Drivers (win11):
 ```
 https://zowie.benq.com/en-us/support/products/monitor/xl2546k/download.html
 ```
 - Replace generic Display Driver on Device Manager > Display for Zowie ones.
-- Download and install: Realtek, INF, Intel ME and Intel Lan driver:
-```
-https://pg.asrock.com/mb/Intel/B660M%20Phantom%20Gaming%204/index.asp#Download
-```
 - Config Sounds
 - Disable System Sounds
 - Reboot when Windows Update asks
