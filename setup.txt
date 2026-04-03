@@ -1,5 +1,7 @@
 # OS
-Arch with linux-zen
+Arch
+Kernel Zen
+Mesa Drivers
 KDE Plasma
 Wayland
 Pipewire
