@@ -16,7 +16,7 @@
 ```
 https://zowie.benq.com/en-us/support/products/monitor/xl2546k/download.html
 ```
-- Replace generic Display Driver on Device Manager > Display for Zowie ones.
+- Replace generic Display Driver on Device Manager > Display for Zowie ones
 - Config Sounds
 - Disable System Sounds
 - Reboot when Windows Update asks
