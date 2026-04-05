@@ -141,6 +141,7 @@ Arch
                                          Disk (/): 63.63 GiB / 475.94 GiB (13%) - btrfs
                                          Locale: en_US.UTF-8
 Mesa: 26.0.3-arch1.1
+btrfs
 [VProf] 
 [VProf] -- Performance report --
 [VProf] Summary of 65852 frames and 122 1-second intervals.  (7056 frames excluded from analysis.)
