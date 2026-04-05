@@ -1,11 +1,5 @@
 # OS
-Arch
-Kernel Zen
-Mesa Drivers
-KDE Plasma
-Wayland
-Pipewire
-Btrfs with compression
+CachyOS
 
 # HARDWARE
 AMD Ryzen 7 5700X
