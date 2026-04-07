@@ -1,6 +1,6 @@
 - Connect Wi-fi
 - Run Windows Update until no more updates are available
-- Download and Install Lastest Video Driver
+- Download and Install Latest Video Driver
 - Adjust Display frequency to 240Hz
 - Download Zowie WHQL Drivers (win11):
 ```
