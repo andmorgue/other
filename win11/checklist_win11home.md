@@ -10,7 +10,7 @@
 ```
  reg add "HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation" /v RealTimeIsUniversal /t REG_DWORD /d 1 /f
 ```
-- Download and Install Lastest Video Driver
+- Download and Install Latest Video Driver
 - Adjust Display frequency to 240Hz
 - Download Zowie WHQL Drivers (win11):
 ```
