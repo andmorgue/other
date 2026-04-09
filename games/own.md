@@ -473,4 +473,6 @@
 | 471 | Havendock | Epic |
 | 472 | Clone Drone in the Danger Zone | Epic |
 | 473 | TOMAK: Save the Earth Regeneration | Epic |
+| 474 | Prop Sumo | Epic |
+
 
