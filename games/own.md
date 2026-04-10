@@ -474,5 +474,17 @@
 | 472 | Clone Drone in the Danger Zone | Epic |
 | 473 | TOMAK: Save the Earth Regeneration | Epic |
 | 474 | Prop Sumo | Epic |
-
-
+| 475 | A Rat's Quest - The Way Back Home | Epic |
+| 476 | Total War: THREE KINGDOMS | Epic |
+| 477 | Deep Sky Derelicts | Amazon |
+| 478 | Phantasie Memorial Set | GOG |
+| 479 | Rebel Galaxy | Amazon |
+| 480 | Sir Questionnaire | GOG |
+| 481 | Total War: Rome II - Emperor Edition | Epic |
+| 482 | Mahokenshi - The Samurai Deckbuilder | GOG |
+| 483 | Veil of Darkness | GOG |
+| 484 | Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot | Epic |
+| 485 | Tattoo Tycoon | Epic |
+| 486 | King of Retail | GOG |
+| 487 | XCOM: Enemy Unknown Complete Pack | GOG |
+| 488 | Total War: PHARAOH DYNASTIES | Amazon |
