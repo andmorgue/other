@@ -489,4 +489,4 @@
 | 487 | XCOM: Enemy Unknown Complete Pack | GOG |
 | 488 | Total War: PHARAOH DYNASTIES | Amazon |
 | 489 | Graveyard Keeper | Steam |
-
+| 490 | The Stone of Madness | Epic |
