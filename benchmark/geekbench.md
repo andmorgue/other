@@ -15,7 +15,7 @@
 | **Debian 14** | 6.18.5+deb14-amd64 | GNOME | 2918 | 110,4% | 12122 | 106,7% |
 | **OpenSUSE Leap 16** | 6.12.0-160000.5-default | GNOME | 2861 | 108,2% | 12186 | 107,3% |
 
-# Geekbench 6.5.0 - Ranking Single-Core (i5-13600KF)
+## Ranking Single-Core
 
 | Rank | OS | Kernel/Version | DE | Single-Core | % (Rel. Win11) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -32,7 +32,7 @@
 | 11º | **Fedora Workstation 43** | 6.17.1-300.fc43.x86_64 | GNOME | **2819** | 106,7% |
 | 12º | **Win11 Home** | 25H2 | Shell | **2643** | 100,0% |
 
-# Geekbench 6.5.0 - Ranking Multi-Core (i5-13600KF)
+## Ranking Multi-Core
 
 | Rank | OS | Kernel/Version | DE | Multi-Core | % (Rel. Win11) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
