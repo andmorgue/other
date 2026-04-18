@@ -1,6 +1,5 @@
 # OS
-Debian 13 (base) + Flatpaks
-KDE Plasma
+Fedora Kinoite 43
 
 # HARDWARE
 AMD Ryzen 7 5700X
