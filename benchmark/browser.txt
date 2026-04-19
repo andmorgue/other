@@ -48,11 +48,11 @@ TECHNICAL ANALYSIS:
 3. FORK CONSISTENCY: Zen Browser (99.5%) continues to show the best 
    balance between custom features and upstream performance parity.
 
-4. PRIVACY & STABILITY: Ungoogled Chromium (88.4%) apresenta um custo 
-   mensurável em performance devido às suas modificações. Já o LibreWolf 
-   (Error) apresentou falha crítica na execução dos scripts do benchmark, 
-   provavelmente devido ao seu hardening rigoroso ou incompatibilidade 
-   específica com a sandbox do Flatpak nesta build.
+4. PRIVACY & STABILITY: Ungoogled Chromium (88.4%) shows a measurable 
+   performance cost due to its modifications. LibreWolf (Error) 
+   suffered a critical failure during benchmark script execution, 
+   likely due to its rigorous hardening or specific incompatibilities 
+   with the Flatpak sandbox in this build.
 
 ============================================================
 EOF - End of Report
