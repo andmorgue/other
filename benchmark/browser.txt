@@ -1,0 +1,54 @@
+============================================================
+BROWSER PERFORMANCE REPORT - SPEEDOMETER 3.1
+============================================================
+Date: 19/Apr/2026
+Methodology: Clean profiles, Flatpak isolation, 3-run average.
+Base Reference: Firefox 149.0.2 = 100%
+
+SYSTEM ENVIRONMENT:
+-------------------
+OS:                Fedora Linux 43
+Kernel:            6.19.12-200.fc43.x86_64
+Display Server:    Wayland
+Desktop:           KDE Plasma 6.6.4 (Frameworks 6.25.0)
+Graphics Driver:   Mesa 26.0.4 (Flathub)
+
+HARDWARE SPECIFICATIONS:
+------------------------
+CPU:               AMD Ryzen 7 5700X (16 vCores)
+RAM:               16 GiB (15.5 GiB usable)
+GPU:               AMD Radeon RX 7600
+Manufacturer:      ASUS
+
+BENCHMARK RESULTS:
+----------------------------------------------------------------------
+Browser           | Version              | Speedometer | (%)
+------------------|----------------------|-------------|--------------
+Firefox           | 149.0.2              | 21.6        | 100.0%
+Google Chrome     | 147.0.7727.101-1     | 27.5        | 127.3%
+Brave             | 1.89.137             | 24.8        | 114.8%
+Chromium          | 147.0.7727.101       | 26.2        | 121.3%
+Microsoft Edge    | 147.0.3912.72-1      | 20.6        | 95.4%
+LibreWolf         | 149.0.2-2            | Error       | N/A
+UngoogledChromium | 147.0.7727.101-1     | 19.1        | 88.4%
+Zen               | 1.19.8b (FF base)    | 21.5        | 99.5%
+----------------------------------------------------------------------
+
+TECHNICAL ANALYSIS:
+-------------------
+1. CHROME DOMINANCE: Google Chrome (v147) remains the performance 
+   leader in this environment, outperforming the Firefox base by 27.3%.
+
+2. EDGE SURPRISE: Despite using the Chromium engine (v147), Microsoft 
+   Edge performed below the Firefox base (95.4%), suggesting overhead 
+   issues or suboptimal Flatpak packaging for Fedora/Wayland.
+
+3. FORK CONSISTENCY: Zen Browser (99.5%) continues to show the best 
+   balance between custom features and upstream performance parity.
+
+4. PRIVACY COST: Ungoogled Chromium (88.4%) and LibreWolf (Error) 
+   show significant performance or compatibility trade-offs in 
+   exchange for heightened privacy settings.
+
+============================================================
+EOF - End of Report
