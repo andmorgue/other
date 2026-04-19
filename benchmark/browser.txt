@@ -12,13 +12,15 @@ Kernel:            6.19.12-200.fc43.x86_64
 Display Server:    Wayland
 Desktop:           KDE Plasma 6.6.4 (Frameworks 6.25.0)
 Graphics Driver:   Mesa 26.0.4 (Flathub)
+Resolution:        1920x1080 @ 240Hz
+Power Profile:     Balanced
 
 HARDWARE SPECIFICATIONS:
 ------------------------
-CPU:               AMD Ryzen 7 5700X (16 vCores)
-RAM:               16 GiB (15.5 GiB usable)
-GPU:               AMD Radeon RX 7600
-Manufacturer:      ASUS
+CPU:                AMD Ryzen 7 5700X (16 vCores)
+RAM:                16 GiB (15.5 GiB usable)
+GPU:                AMD Radeon RX 7600
+Manufacturer:       ASUS
 
 BENCHMARK RESULTS:
 ----------------------------------------------------------------------
@@ -26,12 +28,12 @@ Browser           | Version              | Speedometer | (%)
 ------------------|----------------------|-------------|--------------
 Firefox           | 149.0.2              | 21.6        | 100.0%
 Google Chrome     | 147.0.7727.101-1     | 27.5        | 127.3%
-Brave             | 1.89.137             | 24.8        | 114.8%
 Chromium          | 147.0.7727.101       | 26.2        | 121.3%
-Microsoft Edge    | 147.0.3912.72-1      | 20.6        | 95.4%
-LibreWolf         | 149.0.2-2            | Error       | N/A
-UngoogledChromium | 147.0.7727.101-1     | 19.1        | 88.4%
+Brave             | 1.89.137             | 24.8        | 114.8%
 Zen               | 1.19.8b (FF base)    | 21.5        | 99.5%
+Microsoft Edge    | 147.0.3912.72-1      | 20.6        | 95.4%
+UngoogledChromium | 147.0.7727.101-1     | 19.1        | 88.4%
+LibreWolf         | 149.0.2-2            | Error       | N/A
 ----------------------------------------------------------------------
 
 TECHNICAL ANALYSIS:
@@ -46,9 +48,11 @@ TECHNICAL ANALYSIS:
 3. FORK CONSISTENCY: Zen Browser (99.5%) continues to show the best 
    balance between custom features and upstream performance parity.
 
-4. PRIVACY COST: Ungoogled Chromium (88.4%) and LibreWolf (Error) 
-   show significant performance or compatibility trade-offs in 
-   exchange for heightened privacy settings.
+4. PRIVACY & STABILITY: Ungoogled Chromium (88.4%) apresenta um custo 
+   mensurável em performance devido às suas modificações. Já o LibreWolf 
+   (Error) apresentou falha crítica na execução dos scripts do benchmark, 
+   provavelmente devido ao seu hardening rigoroso ou incompatibilidade 
+   específica com a sandbox do Flatpak nesta build.
 
 ============================================================
 EOF - End of Report
