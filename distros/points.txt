@@ -1,0 +1,27 @@
+ASPECT/DISTRO           | Arch | Debian 13 | Fedora 44 | Ubuntu 26.04 | Pop!_OS 24.04 | CachyOS
+------------------------|------|-----------|-----------|--------------|---------------|---------
+No bloat after install  |  1   |     0     |     1     |      1       |       1       |    1
+Codecs after install    |  1   |     1     |     0     |      1       |       1       |    1
+Great compatibility     |  0   |     1     |     0     |      1       |       1       |    0
+No Snap                 |  1   |     1     |     1     |      0       |       1       |    1
+Easy flatpak config     |  1   |     1     |     1     |      0       |       1       |    1
+Fast boot speed         |  1   |     1     |     0     |      1       |       1       |    1
+Easy distro install     |  1   |     1     |     1     |      1       |       1       |    1
+Great stability         |  0   |     1     |     0     |      1       |       1       |    0
+Fast update speed       |  1   |     1     |     0     |      0       |       1       |    1
+Latest packages         |  1   |     0     |     1     |      0       |       0       |    1
+Everything works        |  0   |     1     |     0     |      1       |       1       |    0
+Fast Performance        |  1   |     1     |     0     |      0       |       1       |    1
+Native Security         |  0   |     1     |     1     |      1       |       1       |    0
+No Third-party Repos    |  1   |     1     |     0     |      0       |       0       |    0
+Available software      |  1   |     1     |     0     |      1       |       1       |    1
+Ready to use            |  0   |     1     |     1     |      1       |       1       |    1
+Install and forget      |  0   |     1     |     1     |      1       |       1       |    0
+LTS Kernel (Predictable)|  0   |     1     |     0     |      1       |       0       |    0
+System Rollback (Btrfs) |  1   |     0     |     1     |      0       |       0       |    1
+Stable DE (No bugs)     |  1   |     1     |     1     |      1       |       0       |    1
+Dedicated Security Team |  0   |     1     |     1     |      1       |       0       |    0
+Great philosophy        |  1   |     1     |     1     |      0       |       0       |    0
+Community decisions     |  1   |     1     |     1     |      0       |       0       |    0
+------------------------|------|-----------|-----------|--------------|---------------|---------
+TOTAL POINTS            |  14  |    19     |    13     |      14      |       15      |    13
