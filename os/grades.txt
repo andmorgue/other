@@ -1,0 +1,16 @@
+                     | Arch + KDE | Debian 13 + KDE | Fedora 44 | Ubuntu 26.04
+---------------------|------------|-----------------|-----------|--------------
+Bloat after install  |     0      |        0        |     0     |      1
+Codecs               |     1      |        1        |     0     |      1
+Compatibility        |     0      |        1        |     0     |      1
+Snap necessary       |     1      |        1        |     1     |      0
+Flatpak usage        |     1      |        1        |     1     |      0
+Boot speed           |     1      |        1        |     0     |      1
+Install process      |     0      |        1        |     1     |      1
+Stability            |     0      |        1        |     0     |      1
+Update speed         |     1      |        1        |     0     |      0
+Latest packages      |     1      |        0        |     1     |      0
+Everything works     |     0      |        1        |     0     |      0
+Performance          |     1      |        1        |     0     |      0
+---------------------|------------|-----------------|-----------|--------------
+TOTAL                |     7      |       10        |     4     |      6
