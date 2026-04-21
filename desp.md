@@ -1,7 +1,7 @@
 | DESP      | $        |
 |-----------|----------|
 | Cond      | 1010     |
-| Mercado   | 600      |
+| Mercado   | 500      |
 | Vivo      | 156      |
 | Enel      | 130      |
 | Onibus    | 85       |
