@@ -18,4 +18,5 @@
 | Stable DE (No bugs) | 0 | 1 | 1 | 1 | 0 | 0 |
 | Dedicated Security Team | 0 | 1 | 1 | 1 | 0 | 0 |
 | x86-64-v3/v4 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **TOTAL POINTS** | **7** | **13** | **8** | **14** | **11** | **8** |
+| Where most app/game devs tests | 0 | 0 | 0 | 1 | 0 | 0 |
+| **TOTAL POINTS** | **7** | **13** | **8** | **15** | **11** | **8** |
