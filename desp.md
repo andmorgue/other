@@ -7,5 +7,5 @@
 | Onibus    | 85       |
 | Tito      | 66       |
 | Comgas    | 45       |
-| Tidal     | 22       |
-| **TOTAL** | **2114** |
+| Spotify   | 24       |
+| **TOTAL** | **2116** |
