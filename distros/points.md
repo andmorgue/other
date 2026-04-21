@@ -1,4 +1,4 @@
-| ASPECT/DISTRO | Arch | Debian | Fedora | Ubuntu | Pop!_OS | CachyOS |
+| ASPECT / DISTRO | Arch | Debian | Fedora | Ubuntu | Pop!_OS | CachyOS |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | No bloat after install | 1 | 0 | 0 | 1 | 0 | 0 |
 | Easy codecs install | 1 | 1 | 0 | 1 | 1 | 1 |
