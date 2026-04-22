@@ -4,9 +4,8 @@
 - Config Power
 - Config Personalization
 - Disable all Startup Apps
-- Install prefered browser
-- Config Browser
-- Config Time in Terminal (Admin):
+- Install and config prefered browser
+- Config time in Terminal (Admin):
 ```
  reg add "HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation" /v RealTimeIsUniversal /t REG_DWORD /d 1 /f
 ```
