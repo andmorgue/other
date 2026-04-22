@@ -2,7 +2,7 @@
 BROWSER PERFORMANCE REPORT - SPEEDOMETER 3.1
 ============================================================
 Date: 19/Apr/2026
-Methodology: Clean profiles, Flatpak isolation, 3-run average.
+Methodology: Clean profiles, Flatpak isolation.
 Base Reference: Firefox 149.0.2 = 100%
 
 SYSTEM ENVIRONMENT:
@@ -20,7 +20,6 @@ HARDWARE SPECIFICATIONS:
 CPU:                AMD Ryzen 7 5700X (16 vCores)
 RAM:                16 GiB (15.5 GiB usable)
 GPU:                AMD Radeon RX 7600
-Manufacturer:       ASUS
 
 BENCHMARK RESULTS:
 ----------------------------------------------------------------------
