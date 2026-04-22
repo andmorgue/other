@@ -1,22 +1,14 @@
 | ASPECT / DISTRO | Arch | Debian | Fedora | Ubuntu | Pop!_OS | CachyOS |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| No bloat after install | 1 | 0 | 0 | 1 | 0 | 0 |
+| No bloat after install | 1 | 0 | 0 | 1 | 0 | 1 |
 | Easy codecs install | 1 | 1 | 0 | 1 | 1 | 1 |
-| Great compatibility | 0 | 1 | 0 | 1 | 1 | 0 |
+| Great compatibility | 1 | 1 | 0 | 1 | 1 | 1 |
 | Fast boot speed | 1 | 1 | 0 | 1 | 1 | 1 |
 | Great stability | 0 | 1 | 0 | 1 | 1 | 0 |
 | Latest/Stable Balance | 0 | 0 | 1 | 1 | 1 | 0 |
 | Fast update speed | 1 | 1 | 0 | 0 | 1 | 1 |
 | Latest packages always | 1 | 0 | 1 | 1 | 0 | 1 |
-| Everything works | 0 | 1 | 0 | 1 | 1 | 0 |
 | Fast Performance | 1 | 1 | 0 | 0 | 1 | 1 |
-| Native Security | 0 | 1 | 1 | 1 | 1 | 0 |
-| Use out-of-the-box | 0 | 1 | 1 | 1 | 1 | 1 |
-| Install and forget | 0 | 1 | 1 | 1 | 1 | 0 |
-| LTS Kernel (Predictable) | 0 | 1 | 0 | 1 | 0 | 0 |
 | Easy snapshot | 1 | 0 | 1 | 0 | 0 | 1 |
-| Stable DE (No bugs) | 0 | 1 | 1 | 1 | 0 | 0 |
-| Dedicated Security Team | 0 | 1 | 1 | 1 | 0 | 0 |
 | x86-64-v3/v4 | 0 | 0 | 0 | 0 | 0 | 1 |
-| Where most app/game devs tests | 0 | 0 | 0 | 1 | 0 | 0 |
-| **TOTAL POINTS** | **7** | **13** | **8** | **15** | **11** | **8** |
+| **TOTAL POINTS** | **8** | **6** | **3** | **7** | **7** | **9** |
