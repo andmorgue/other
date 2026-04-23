@@ -490,3 +490,4 @@
 | 488 | Total War: PHARAOH DYNASTIES | Amazon |
 | 489 | Graveyard Keeper | Steam |
 | 490 | The Stone of Madness | Epic |
+| 491 | The Whispering Valley | GOG |
