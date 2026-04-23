@@ -37,10 +37,8 @@ Razer Huntsman V3 Pro Mini
 Zowie XL2546K
 Logitech G Pro X Superlight
 Corsair MM100
-Dualshock 4 (Wired)
 GraveAudio DA06 (CX31993)
 Sennheiser IE 100 Pro
-HP DeskJet Ink Advantage 3776
 
 # CS2 SETTINGS
 Steam Launch Options: None
