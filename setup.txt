@@ -15,7 +15,7 @@ ASUS TUF Gaming B550M-Plus
 # PERIPHERALS
 Comfast CF-WU785AC (MT7612U)
 Zowie XL2546K @ 240Hz
-Aula F87 + Akko Cream Blue v3 + Akko Dracula Kaycaps
+Aula F87 + Akko Cream Blue v3 (Tactile) + Akko Dracula Keycaps
 Logitech G Pro X Superlight
 Corsair MM100
 Dualshock 4 (Wired)
