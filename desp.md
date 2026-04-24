@@ -1,11 +1,13 @@
-| DESP      | $        |
-|-----------|----------|
-| Cond      | 1010     |
-| Mercado   | 500      |
-| Vivo      | 156      |
-| Enel      | 130      |
-| Onibus    | 85       |
-| Tito      | 66       |
-| Comgas    | 45       |
-| Spotify   | 24       |
-| **TOTAL** | **2016** |
+| DESP | $ |
+| :--- | :--- |
+| Cond | 1010 |
+| Mercado | 500 |
+| Enel | 130 |
+| Vivo | 120 |
+| Onibus | 85 |
+| Tito | 66 |
+| Comgas | 45 |
+| Spotify | 24 |
+| NYT | 6 |
+| Folha | 2 |
+| **TOTAL** | **1988** |
