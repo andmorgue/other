@@ -1,3 +1,7 @@
+# OS
+Arch Linux + Kernel Zen
+KDE Plasma + Wayland
+
 # HARDWARE
 AMD Ryzen 7 5700X
 AMD Radeon RX 7600
@@ -10,11 +14,10 @@ ASUS TUF Gaming B550M-Plus
 
 # PERIPHERALS
 Comfast CF-WU785AC (MT7612U)
-Razer Huntsman V3 Pro Mini
-Zowie XL2546K
+Zowie XL2546K @ 240Hz
+Aula F87 + Akko Cream Blue v3 + Akko Dracula Kaycaps
 Logitech G Pro X Superlight
 Corsair MM100
 Dualshock 4 (Wired)
-GraveAudio DA06 (CX31993)
-Sennheiser IE 100 Pro
+GraveAudio DA06 (CX31993) + Sennheiser IE 100 Pro
 HP DeskJet Ink Advantage 3776
