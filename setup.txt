@@ -1,6 +1,8 @@
 # OS
-Arch Linux + Kernel Zen
-KDE Plasma + Wayland
+Arch Linux
+Kernel Zen
+KDE Plasma
+Wayland
 
 # HARDWARE
 AMD Ryzen 7 5700X
