@@ -15,9 +15,10 @@ ASUS TUF Gaming B550M-Plus
 # PERIPHERALS
 Comfast CF-WU785AC (MT7612U)
 Zowie XL2546K @ 240Hz
-Aula F87 + Akko v3 Cream Blue (Tactile) + Akko Dracula Keycaps
+Razer Hunstman v3 Pro Mini
 VXE R1 Pro
 Fantech Agile MP353
 Dualshock 4 (Wired)
-GraveAudio DA06 (CX31993) + Sennheiser IE 100 Pro
+GraveAudio DA06 (CX31993)
+Sennheiser IE 100 Pro
 HP DeskJet Ink Advantage 3776
