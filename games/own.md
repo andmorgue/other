@@ -492,3 +492,4 @@
 | 490 | The Stone of Madness | Epic |
 | 491 | The Whispering Valley | GOG |
 | 492 | DOOMBLADE | Epic |
+| 493 | Nocturnal | Steam |
