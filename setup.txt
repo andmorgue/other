@@ -1,8 +1,6 @@
 # OS
-Arch Linux
-Kernel Zen
-KDE Plasma
-Wayland
+Arch Linux + Kernel Zen
+KDE Plasma + Wayland
 Btrfs with Compression
 Pipewire
 
