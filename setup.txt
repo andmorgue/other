@@ -3,6 +3,8 @@ Arch Linux
 Kernel Zen
 KDE Plasma
 Wayland
+Btrfs with Compression
+Pipewire
 
 # HARDWARE
 AMD Ryzen 7 5700X
