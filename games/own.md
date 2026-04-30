@@ -493,3 +493,4 @@
 | 491 | The Whispering Valley | GOG |
 | 492 | DOOMBLADE | Epic |
 | 493 | Nocturnal | Steam |
+| 494 | Oddsparks: An Automation Adventure | Epic |
