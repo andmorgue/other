@@ -1,11 +1,3 @@
-# OS
-Arch Linux
-Kernel Zen
-KDE Plasma
-Wayland
-Pipewire
-Btrfs (zstd)
-
 # HARDWARE
 AMD Ryzen 7 5700X
 AMD Radeon RX 7600
@@ -18,7 +10,7 @@ ASUS TUF Gaming B550M-Plus
 
 # PERIPHERALS
 Zowie XL2546K @ 240Hz
-Razer Hunstman v3 Pro Mini
+Aula F87 + Akko v3 Cream Blue + Akko Dracula Keycaps
 VXE R1 Pro Max
 Fantech Agile MP353
 Dualshock 4 (Wired)
