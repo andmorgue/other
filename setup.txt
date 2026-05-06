@@ -1,6 +1,5 @@
 # OS
 Arch Linux
-Kernel Zen
 KDE Plasma
 Wayland
 Pipewire
@@ -18,7 +17,7 @@ ASUS TUF Gaming B550M-Plus
 
 # PERIPHERALS
 Zowie XL2546K @ 240Hz (1920x1080p)
-Razer Hunstman v3 Pro Mini
+Aula F87 + Akko v3 Cream Blue + Akko Dracula Keycaps
 VXE R1 Pro
 Fantech Agile MP353
 Dualshock 4 (Wired)
