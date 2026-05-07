@@ -494,3 +494,5 @@
 | 492 | DOOMBLADE | Epic |
 | 493 | Nocturnal | Steam |
 | 494 | Oddsparks: An Automation Adventure | Epic |
+| 495 | Trash Goblin | Epic |
+| 496 | Arranger: A Role-Puzzling Adventure | Epic |
