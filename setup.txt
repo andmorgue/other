@@ -1,9 +1,8 @@
 # OS
-Arch Linux
-KDE Plasma
+Debian 13
+Gnome 48
 Wayland
 Pipewire
-Btrfs (zstd)
 
 # HARDWARE
 AMD Ryzen 7 5700X
