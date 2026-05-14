@@ -496,3 +496,5 @@
 | 494 | Oddsparks: An Automation Adventure | Epic |
 | 495 | Trash Goblin | Epic |
 | 496 | Arranger: A Role-Puzzling Adventure | Epic |
+| 497 | The Telltale Batman Shadows Edition | Epic |
+| 498 | Sunderfolk - Standard Edition | Epic |
