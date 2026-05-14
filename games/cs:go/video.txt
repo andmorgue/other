@@ -13,7 +13,7 @@
     "setting.gpu_mem_level"     "1"
     "setting.mem_level"         "3"
     "setting.mat_queue_mode"    "-1"
-    "setting.csm_quality_level" "3"
+    "setting.csm_quality_level" "2"
     "setting.mat_software_aa_strength" "0"
     "setting.mat_motion_blur_enabled" "0"
     "setting.mat_texturestreaming" "0"
