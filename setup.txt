@@ -1,3 +1,6 @@
+# OS
+Fedora KDE Plasma Desktop 44
+
 # HARDWARE
 AMD Ryzen 7 5700X
 AMD Radeon RX 7600
