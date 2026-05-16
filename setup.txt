@@ -1,5 +1,5 @@
 # OS
-Fedora Kinoite 44
+SteamOS
 
 # HARDWARE
 AMD Ryzen 7 5700X
