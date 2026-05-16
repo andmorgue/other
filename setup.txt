@@ -1,3 +1,6 @@
+# OS
+Debian 13 + Gnome
+
 # HARDWARE
 AMD Ryzen 7 5700X
 AMD Radeon RX 7600
