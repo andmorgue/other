@@ -1,0 +1,17 @@
+monkeytype.com english 30 seconds test
+
+aula f87 (switch akko v3 cream blue, keycaps akko dracula castle asa pbt double shot non-shine through)
+wpm, acc %, consistency %
+52, 96, 59
+64, 98, 75
+58, 96, 62
+58, 97, 65
+61, 98, 71
+
+razer huntsman v3 pro mini (switch razer gen2 with 1.6 cm actuation point, keycaps razer cherry profile pbt double shot shine through)
+wpm, acc %, consistency %
+55, 97, 68
+41, 90, 55
+52, 97, 63
+52, 95, 61
+56, 97, 67
