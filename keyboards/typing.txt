@@ -1,0 +1,32 @@
+monkeytype.com 
+english 
+30 seconds
+
+Aula F87 (switch akko v3 cream blue, keycaps akko dracula asa)
+wpm, acc %, consistency %
+52, 96, 59
+64, 98, 75
+58, 96, 62
+58, 97, 65
+61, 98, 71
+
+Razer huntsman v3 pro mini (switch razer gen2 with 1.6 mm actuation point, keycaps razer cherry)
+wpm, acc %, consistency %
+55, 97, 68
+41, 90, 55
+52, 97, 63
+52, 95, 61
+56, 97, 67
+
+Razer huntsman v3 pro mini (switch razer gen2 with 2.0 mm actuation point, keycaps razer cherry)
+wpm, acc %, consistency %
+66, 99, 75
+64, 97, 75
+60, 96, 66
+58, 96, 65
+62, 97, 67
+
+Ranking / Average
+1. Razer 2.0 mm 62, 97, 70
+2. Aula F87     59, 97, 66
+3. Razer 1.6 mm 51, 95, 63
