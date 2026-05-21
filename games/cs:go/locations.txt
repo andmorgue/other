@@ -1,5 +1,0 @@
-autoexec.cfg
-/home/and/.local/share/Steam/steamapps/common/csgo legacy/csgo/cfg/
-
-video.txt
-/home/and/.local/share/Steam/userdata/1217211588/4465480/local/cfg/
