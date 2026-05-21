@@ -498,3 +498,5 @@
 | 496 | Arranger: A Role-Puzzling Adventure | Epic |
 | 497 | The Telltale Batman Shadows Edition | Epic |
 | 498 | Sunderfolk - Standard Edition | Epic |
+| 499 | Down in Bermuda | Epic |
+| 500 | Tomb Raider I-III Remastered Starring Lara Croft | Epic |
